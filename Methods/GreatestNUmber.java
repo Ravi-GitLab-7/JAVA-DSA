@@ -11,5 +11,4 @@ public class GreatestNUmber {
 
         System.out.println(Math.max(Math.max(a, b), Math.max(c, d)));
     }
-
 }
