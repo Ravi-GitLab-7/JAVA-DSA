@@ -8,7 +8,7 @@ public class continue1 {
 //                System.out.println(i);
 //        }
         for (int i = 1; i <=100 ; i++) {
-//            if (i%2==0 ) continue; // continue means the skip and itteration the value
+            if (i%2==0 ) continue; // continue means the skip and itteration the value
             if (i%2!=0 ) continue;
                 System.out.println(i);
         }

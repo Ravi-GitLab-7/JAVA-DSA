@@ -8,7 +8,7 @@ public class ifCordinateliesOnOrigin {
         System.out.println("enter the number of y");
         int y = sc.nextInt();
         if (x==0 && y==0){
-            System.out.println("the par is origin");
+            System.out.println("the point is origin");
         } else if (x == 0) {
             System.out.println("the point is lies on y-axis");
         } else if (y ==0) {
