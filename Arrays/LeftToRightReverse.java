@@ -1,6 +1,6 @@
 package Arrays;
 
-public class Reverse_ArrayM2 {
+public class LeftToRightReverse {
 
     // Method to print array
     public static void print(int[] arr){
