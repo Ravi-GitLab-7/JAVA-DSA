@@ -17,9 +17,9 @@ public class Check_pallindrone {
         }
 
         if (c == s) {
-            System.out.println(c + " is a palindrome.");
+            System.out.println(c+ " is a palindrome.");
         } else {
-            System.out.println(c + " is not a palindrome.");
+            System.out.println(c+ " is not a palindrome.");
         }
     }
 }

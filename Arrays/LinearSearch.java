@@ -11,7 +11,7 @@ public class LinearSearch {
                 break;
             }
         }
-        if(flag == false) System.out.println("nhi mila");
-        else System.out.println("Mil gya");
+        if(flag == false) System.out.println("nhi mila h");
+        else System.out.println("Mil gya h");
     }
 }
