@@ -6,12 +6,12 @@ public class LinearSearch {
         int x = 9 ;
         boolean flag = false; //nhi mila
         for (int i = 0; i < arr.length ; i++) {
-            if(arr[i]==x ) {
+              if(arr[i]==x ) {
                 flag = true;
                 break;
             }
         }
-        if(flag==false) System.out.println("nhi mila");
+        if(flag == false) System.out.println("nhi mila");
         else System.out.println("Mil gya");
     }
 }
