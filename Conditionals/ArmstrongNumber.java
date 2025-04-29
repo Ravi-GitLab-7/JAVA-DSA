@@ -8,6 +8,7 @@ public class ArmstrongNumber {
             int digit = num % 10;
             sum += digit * digit * digit;
             num /= 10;
+
         }
 
         if (sum == originalNum) {
