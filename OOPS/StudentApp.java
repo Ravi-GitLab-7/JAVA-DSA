@@ -1,4 +1,4 @@
-package Project;
+package OOPS;
 
 public class StudentApp {
 
