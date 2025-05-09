@@ -1,6 +1,6 @@
 package OOPS;
 
-public class TestApp {
+public class Constructor {
 
     static class Account {
         // Data Security

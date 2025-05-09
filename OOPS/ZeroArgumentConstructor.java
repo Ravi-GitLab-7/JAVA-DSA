@@ -1,6 +1,6 @@
 package OOPS;
 
-public class TestAppThree {
+public class ZeroArgumentConstructor {
     // Inner class
     class Employee {
         String name;
@@ -19,7 +19,7 @@ public class TestAppThree {
     }
 
     public static void main(String[] args) {
-        TestAppThree outer = new TestAppThree(); // Create an instance of the outer class
+        ZeroArgumentConstructor outer = new ZeroArgumentConstructor(); // Create an instance of the outer class
         Employee emp = outer.new Employee(); // Create an instance of the inner class
         emp.disp();
     }
