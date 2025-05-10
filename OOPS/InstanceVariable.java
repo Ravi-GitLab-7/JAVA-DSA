@@ -23,6 +23,7 @@ public class InstanceVariable {
     public static void main(String[] args) {
         Student std1 = new Student("Ravi",20);
         std1.disp();
+        System.out.println();
         Student std2 = new Student("Raj",20);
         std2.disp();
     }
