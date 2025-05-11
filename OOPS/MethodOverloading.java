@@ -17,6 +17,8 @@ public class MethodOverloading {
             c.add(10,20); //int-int argument
             c.add(10.2f,20.4f); //float -float  argument
             c.add(10.0,20.0);  //double-double argument
+        c.add('a', 10);          // 'a' (char) promoted to int, matches add(int, int)
+        c.add(18L, 2.0f);
 
     }
 }
