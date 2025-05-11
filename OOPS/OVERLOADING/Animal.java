@@ -33,7 +33,7 @@
 //        a.m1(an); // Output: Animal version..
 //    }
 //}
-
+//
 //   Anohter Method
 
 class Calculator{
@@ -63,6 +63,17 @@ class advanceCalculator{
         System.out.println(sum);
     }
 }
+     ///  o--1 arg
+  class Demo{
+
+      //Exact match
+    public void methodONe(int i){
+        System.out.println("General Method");
+    }
+      public void methodONe(int...i){
+          System.out.println("Var-Arg Method");
+      }
+  }
 
 class test{
     public static void main(String[] args){
@@ -80,6 +91,12 @@ class test{
         ac.add(10,20,30);
         ac.add(10,20,30,40);
         ac.add(10,20,30,40,50);
+
+        System.out.println();
+        Demo d1 = new Demo();
+        d1.methodONe();   //var-Arg
+        d1.methodONe(10); //General Method
+        d1.methodONe(10,20); //Var-Arg Method
     }
 }
 
