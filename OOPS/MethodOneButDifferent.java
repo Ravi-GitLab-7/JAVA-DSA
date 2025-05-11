@@ -2,16 +2,19 @@ package OOPS;
 
 public class MethodOneButDifferent{
     public void mehtodOne(String s){
-        System.out.println("String Buffer o");
+        System.out.println("String version...");
+    }
+    public void mehtodOne(StringBuffer s){
+        System.out.println("ObjectBuffer version...");
     }
     public void mehtodOne(Object o){
-        System.out.println("Object version...");
+        System.out.println("String  o");
     }
 
     public static void main(String[] args) {
         MethodOne m=new MethodOne();
-        m.mehtodOne("Ravi");  // String -->String
-        m.mehtodOne(new Object()); //Object -->Object
-        m.mehtodOne(null);  //null -->String reference  Object reference
+        m.mehtodOne(new String("Ravi"));  // String -->String
+        m.mehtodOne(new StringBuffer("Ravi")); //StringBuffer
+        m.mehtodOne(null);  //null -->String (reference),  StringBuffer (reference)
     }
 }
