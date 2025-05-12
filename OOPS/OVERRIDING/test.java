@@ -15,6 +15,6 @@ public class test {
         }
     }
     public static void main(String[] args) {
-       parent p1 =  new parent();
+//       parent p1 =  new parent();
     }
 }
