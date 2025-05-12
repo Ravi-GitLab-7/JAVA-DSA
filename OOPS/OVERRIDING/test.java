@@ -1,7 +1,11 @@
 package OOPS.OVERRIDING;
 
-public class overriding {
+
+public class test {
+    class parent {
+
+    }
     public static void main(String[] args) {
-        
+
     }
 }
