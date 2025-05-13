@@ -43,6 +43,7 @@ public class test2 {
 
     // Inner class Forest with a method to allow animals
     class Forest {
+        //true polymorphism
         public void allowAnimal(Animal animal) { // Fixed method parameter type
             animal.eat();
             animal.sleep();
