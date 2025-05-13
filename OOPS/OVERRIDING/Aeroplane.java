@@ -46,6 +46,7 @@ public class Aeroplane {
     }
 
     class airport extends Aeroplane{
+        //True Polymorphism
         public void allowAeroplane(Aeroplane ap){
             ap.takeOff();
             ap.fly();
