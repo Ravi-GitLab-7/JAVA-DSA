@@ -1,5 +1,5 @@
 package OOPS.Abstract;
-
+//in which check abstract class also have a constroctor
 // Exposing the set of services but hiding the internal implementation
 // Abstract class
 abstract class Person {
