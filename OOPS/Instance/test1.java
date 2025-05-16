@@ -9,5 +9,6 @@ public class test1 implements IDemo{
         int x =100; //local variable
         System.out.println(x);  //in which more priority of local than static
         System.out.println(IDemo.x);  //using interface name
+        System.out.println(test1.x); // in which take interface method
     }
 }
