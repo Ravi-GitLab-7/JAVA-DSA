@@ -1,9 +1,6 @@
 package Array;
-
 import static Arrays.PassingArrayToMethos.change;
-
 public class PassingArrayToMethod {
-
     //passing pass by reference
     public static void change (int [] arr){
         arr[0]=200;
