@@ -6,7 +6,7 @@ public class CopyArray {
         for (int ele : arr){
             System.out.print(ele+" ");
         }
-        System.out.println();
+        System.out.println(90);
         int [] nums = arr;
         nums[0]=100;
         System.out.println(nums[0]);
