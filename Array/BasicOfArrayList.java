@@ -1,5 +1,6 @@
 package Array;
 
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 
 public class BasicOfArrayList {
@@ -12,8 +13,18 @@ public class BasicOfArrayList {
         arr.add(4,50);  
         arr.add(5,60);
 //        for (int i = 0; i <6 ; i++) {
-//            System.out.print(arr.get(i)+" ");
+//            System.out.print(arr.get(i)+" "); //add new element
 //        }
         System.out.println(arr);
+        System.out.println();
+        for (int i = 0; i <6 ; i++) {
+            arr.set(0,100);  //modify
+//          for(int ele : arr){
+//              System.out.print(ele+" ");
+//          }
+                    for (int j = 0; j <6 ; j++) {
+            System.out.print(arr.get(j)+" ");
+        }
+        }
     }
 }
