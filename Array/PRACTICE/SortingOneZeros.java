@@ -19,6 +19,8 @@ public class SortingOneZeros {
         }
 
         // Print the array
-        System.out.println(Arrays.toString(arr));
+       for(int ele : arr){
+           System.out.print(ele+" ");
+        }
     }
 }
