@@ -1,5 +1,5 @@
 package Array;
-public class DuthFlagAlgo {
+public class SortOnesTwoZeros {
     public static void main(String[] args) {
       int [] arr= {0,0,0,1,1,0,2,2,1,2,0,1,2,0,2,1};
       int n = arr.length;
