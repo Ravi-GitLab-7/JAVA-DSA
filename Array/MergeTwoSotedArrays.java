@@ -18,7 +18,7 @@ public class MergeTwoSotedArrays {
             }
             k++;
         }
-
+// laqst edges
         while (i < a.length) {
             c[k] = a[i];
             i++;
