@@ -11,12 +11,19 @@ public class SumOFelement {
                 arr[i][j] = Sc.nextInt();
             }
         }
-        int sum = 0;
+//        int sum = 0;
+//        for (int i = 0; i <2 ; i++) {
+//            for (int j = 0; j <2 ; j++) {
+//               sum += arr[i][j];
+//            }
+//        }
+        //product
+        int product = 1;
         for (int i = 0; i <2 ; i++) {
             for (int j = 0; j <2 ; j++) {
-               sum += arr[i][j];
+                product *= arr[i][j];
             }
         }
-        System.out.print(sum);
+        System.out.println(product);
     }
 }
