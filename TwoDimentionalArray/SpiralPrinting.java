@@ -17,6 +17,7 @@ public class SpiralPrinting {
                 {16, 17, 18, 19, 20}, {21, 22, 23, 24, 25}, {26, 27, 28, 29, 30}};
         int m = arr.length, n = arr[0].length;
         print(arr);
+        //spiral print
         int minr = 0, maxr = m - 1;
         int minc = 0, maxc = n - 1;
 
