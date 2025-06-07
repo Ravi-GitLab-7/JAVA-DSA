@@ -18,3 +18,11 @@ Java is a high-level, object-oriented programming language known for its portabi
 ✔ Multithreading Support – Built-in for concurrent programming
 
 ✔ Enterprise-Grade – Powers Android apps, web servers (Spring), and big data (Hadoop)
+
+📌 Why Learn Java?
+
+Widely Used – Backend (Spring), Android apps, financial systems, and IoT
+
+High Demand – Top choice for software engineering jobs
+
+Structured & Readable – Clean syntax, strong typing, and scalability
