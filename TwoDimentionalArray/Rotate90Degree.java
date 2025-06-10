@@ -13,6 +13,7 @@ public class Rotate90Degree{
     public static void main(String[] args) {
         int[][] arr = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
         int m = arr.length;
+        System.out.println("Actal Matrix:");
         print(arr);
         //transpose
         for (int i = 0; i <m ; i++) {
@@ -22,6 +23,8 @@ public class Rotate90Degree{
                 arr[j][i] = temp;
             }
         }
+        System.out.println("Transpose  Matrix:");
+
         print(arr);
         //rotate --> reverse each row --> reverse the whole array
         for (int i = 0; i <m ; i++) {
@@ -35,6 +38,7 @@ public class Rotate90Degree{
               b--;
           }
         }
+        System.out.println("Rotate90Degree Matrix:");
         print(arr);
     }
 }
