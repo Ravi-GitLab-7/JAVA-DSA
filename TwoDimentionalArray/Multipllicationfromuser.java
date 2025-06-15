@@ -25,7 +25,7 @@ public class Multipllicationfromuser {
             for (int i = 0; i < a.length; i++) {  // Loop through rows of a
                 for (int j = 0; j < b[0].length; j++) {  // Loop through columns of b
                     for (int k = 0; k < b.length; k++) {  // Loop through rows of b
-                        c[i][j] += a[i][k] * b[k][j];  // Compute the dot product
+                        c[i][j] += a[i][k] * b[k][j];  //  dot product
                     }
                 }
             }
