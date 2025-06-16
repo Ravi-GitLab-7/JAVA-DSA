@@ -10,11 +10,11 @@ public class searchMatrix {
                 System.out.println("Found at "+i+" "+j);
                 break;
             }
-            else if (arr[i][j]>target) {
+            else if (arr[i][j]>target) {  // go left
                 j--;
             }
             else{
-                i++;
+                i++;  // go down
             }
         }
     }
