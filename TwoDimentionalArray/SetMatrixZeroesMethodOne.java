@@ -1,5 +1,5 @@
 package TwoDimentionalArray;
-public class SetMatrixZeroes {
+public class SetMatrixZeroesMethodOne {
     public static void main(String[] args) {
         int[][] arr = {
                 {1, 0, 7, 11},
@@ -7,15 +7,31 @@ public class SetMatrixZeroes {
                 {3, 6, 0, 16},
         };
         int m = arr.length, n = arr[0].length;
+      int [][] helper = new int[m][n];
         for (int i = 0; i <m ; i++) {
             for (int j = 0; j <n ; j++) {
-                for (int k = 0; k <n ; k++) {
-                    if(arr[i][j]==0){
-                        arr[i][k]=0;
-                        arr[k][j]=0;
+                helper[i][j]= arr[i][j];
+            }
+        }
+        for (int i = 0; i <m ; i++) {
+            for (int j = 0; j <n ; j++) {
+                if(helper[i][j]==0){
+                    //set the ith rows and jth colns 0's
+                    for(int b=0;b<n;b++){
+                        arr[i][b]=0;
+                    }
+                    for(int a=0;a<m;a++){
+                        arr[a][j]=0;
                     }
                 }
             }
+        }
+        //Print
+        for (int[] row : arr){
+            for(int element:row){
+                System.out.print(element+" ");
+            }
+            System.out.println();
         }
     }
 }
