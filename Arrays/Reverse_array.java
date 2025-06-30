@@ -9,6 +9,7 @@ public class Reverse_array {
             reverse[i] = original[original.length - 1 - i];
         }
 
+        System.out.println("Reversed array:");
         for (int num : reverse) {
             System.out.print(num + " ");
         }
