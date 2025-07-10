@@ -19,7 +19,7 @@ public class Reverse {
             arr[j] = temp;
         }
 
-        // Print the reversed array
+       // Print the reversed array
         for (int ele : arr) {
             System.out.print(ele + " ");
         }
