@@ -11,5 +11,19 @@ public class IndexOfOrCompare    {
         String a= "abc";
         String b = "abcasd";
         System.out.println(a.compareTo(b));
+        //contains
+        String c = "Hello Riya";
+        System.out.println(c.contains("iya"));  //countinous parts of string
+        System.out.println(c.contains("ayi"));
+
+
+        //StartWith
+        System.out.println(c.startsWith("H"));
+
+        //Endwith()
+        System.out.println(c.endsWith("ya"));
+
+
     }
 }
+
