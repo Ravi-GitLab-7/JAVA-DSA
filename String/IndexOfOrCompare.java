@@ -23,6 +23,10 @@ public class IndexOfOrCompare    {
         //Endwith()
         System.out.println(c.endsWith("ya"));
 
+        String d = "Hello Ravi raj";
+        System.out.println(d.toLowerCase());
+        System.out.println(d.toUpperCase());
+
 
     }
 }
