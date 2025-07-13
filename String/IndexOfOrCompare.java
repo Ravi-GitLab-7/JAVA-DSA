@@ -27,7 +27,12 @@ public class IndexOfOrCompare    {
         System.out.println(d.toLowerCase());
         System.out.println(d.toUpperCase());
 
+        String k = "abc";
+        String l = "xyz";
+        System.out.println(k.concat(l));
 
+        String m = "";
+        System.out.println(m.length());  //Empty String
     }
 }
 
