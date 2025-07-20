@@ -10,6 +10,7 @@ public class updateString {
             if(i%2==0) t +='a';
             else t += s.charAt(i);
         }
-        System.out.print(t);
+        s = t;
+        System.out.print(s);
     }
 }
