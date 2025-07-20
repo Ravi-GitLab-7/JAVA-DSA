@@ -4,12 +4,13 @@ public class StringEqualityTest {
         String a = "abcdxyz";
         String b = "abcdxyz";
         String c = new String(a); // creates new String object
-        String d = "abc";
+        String d = "abcd";
         d = d + "xyz";  // creates a new String
 
         System.out.println(a == b);      // true
         System.out.println(a == c);      // false
         System.out.println(a == d);      // false
         System.out.println(a.equals(d)); // true
+        System.out.println(a.compareTo(d));
     }
 }
