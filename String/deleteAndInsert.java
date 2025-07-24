@@ -15,5 +15,7 @@ public class deleteAndInsert {
         System.out.println(sb.insert(2,'r'));
         System.out.println(sb.insert(2,9));
         System.out.println(sb.insert(2,"ravi"));
+        sb.reverse();
+        System.out.println(sb);
     }
 }
