@@ -2,7 +2,7 @@ package String;
 public class returnMinimumString {
     public static void main(String[] args) {
         String[] arr = {"999999999", "998", "997", "-996", "995", "994", "993", "992","991", "990"};  // string array
-        String maxS = arr[0];
+        String maxS = arr[0];  // leading zero
         for (int i = 0; i <arr.length ; i++) {
             maxS = max(maxS,arr[i]);
         }
