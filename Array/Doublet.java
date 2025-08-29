@@ -8,7 +8,7 @@ public class Doublet {
              for (int j = i+1; j < arr.length ; j++) {
                  if(arr[i] + arr[j] == x ){
                      System.out.println(arr[i]+" "+arr[j]);
-                     break;
+                      break;
                  }
              }
         }
