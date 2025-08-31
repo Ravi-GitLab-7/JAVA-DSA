@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="823982f3-12f7-45c6-8649-8cd07f48a328" name="Changes" comment="bubbleSor">
+      <change afterPath="$PROJECT_DIR$/src/basicSorting/bubbleSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicSorting/bubbleSort2Optimize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicSorting/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicSorting/bubbleSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;author&quot;: &quot;07ravi-lab&quot;
+    },
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;07ravi-lab&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/07ravi-lab/JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;16f09670-9836-4425-8030-0e96191abd64&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Array/InputUSerjava.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/javaInput/findReminder.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2uEMVEf0H4XnJbNwG8o3ZSy6CtS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Absolute.executor": "Run",
+    "Application.AbsoluteValue.executor": "Run",
+    "Application.AbsoluteValueFloat.executor": "Run",
+    "Application.AbsoluteValueUsingMath.executor": "Run",
+    "Application.AdvanceStarPyramid.executor": "Run",
+    "Application.AdvancedConditionals.executor": "Run",
+    "Application.Aeroplane.executor": "Run",
+    "Application.AllOperationArraylist.executor": "Run",
+    "Application.AlphabateSquare.executor": "Run",
+    "Application.AlphabereAquare.executor": "Run",
+    "Application.AlphabetPyramid.executor": "Run",
+    "Application.AlphabetTriangle.executor": "Run",
+    "Application.AlphabetTriangleREverse.executor": "Run",
+    "Application.AlphateSquare.executor": "Run",
+    "Application.Animal.executor": "Run",
+    "Application.ApNthTerm.executor": "Run",
+    "Application.AreaOfCircle.executor": "Run",
+    "Application.ArithimaticOperation.executor": "Run",
+    "Application.Arithmaticoperation.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArraayListremove.executor": "Run",
+    "Application.ArrayList2D.executor": "Run",
+    "Application.Arrays.MethodArray.executor": "Run",
+    "Application.Arthmatic.executor": "Run",
+    "Application.AsciiValue.executor": "Run",
+    "Application.AuthenticationSystem.executor": "Run",
+    "Application.BasicDeclaration.executor": "Run",
+    "Application.BasicOfArrayList.executor": "Run",
+    "Application.BasicSyntax.executor": "Run",
+    "Application.Basics.executor": "Run",
+    "Application.BehaviorOFGrade.executor": "Run",
+    "Application.BinaryTriangle.executor": "Run",
+    "Application.CharDAta.executor": "Run",
+    "Application.CheckArmStrongNum.executor": "Run",
+    "Application.CheckEvenOddNumber.executor": "Run",
+    "Application.Check_pallindrone.executor": "Run",
+    "Application.ChkMaximumNum.executor": "Run",
+    "Application.CircleCalculator.executor": "Run",
+    "Application.Combination.executor": "Run",
+    "Application.CombinationFunction.executor": "Run",
+    "Application.ConditionalExamples.executor": "Run",
+    "Application.CopyArray.executor": "Run",
+    "Application.CountDigit.executor": "Run",
+    "Application.CountDigitAndSquareIt.executor": "Run",
+    "Application.CountGreaterNumFromGivenNumber.executor": "Run",
+    "Application.DaubleDAtaTYpe.executor": "Run",
+    "Application.DiagonalElements.executor": "Run",
+    "Application.DivisibleBy5Or3.executor": "Run",
+    "Application.DivisibleBy5or3.executor": "Run",
+    "Application.Divisibleby5butnot3.executor": "Run",
+    "Application.DoWhileLoop.executor": "Run",
+    "Application.Doublet.executor": "Run",
+    "Application.Duplicate_Sum.executor": "Run",
+    "Application.Duplicate_element.executor": "Run",
+    "Application.DutchFlagSortOnesTwoZeros.executor": "Run",
+    "Application.DuthFlagAlgo.executor": "Run",
+    "Application.EvenNum.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
+    "Application.Extra.executor": "Run",
+    "Application.Extraone.executor": "Run",
+    "Application.FActorialNumber.executor": "Run",
+    "Application.FabonacciSeries.executor": "Run",
+    "Application.FactorailFirstNnumber.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
+    "Application.FibonacciNm.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FindDuplicates.executor": "Run",
+    "Application.FindDuplicatesInPlace.executor": "Run",
+    "Application.FindGCD.executor": "Run",
+    "Application.FindPointLiesOnINsideOutsideCircle.executor": "Run",
+    "Application.FindYoungerAges.executor": "Run",
+    "Application.FloydsTriangle.executor": "Run",
+    "Application.ForEachLoop.executor": "Run",
+    "Application.FunctionExamples.executor": "Run",
+    "Application.Geeks.executor": "Run",
+    "Application.GreatestNUmber.executor": "Run",
+    "Application.HighestFactor.executor": "Run",
+    "Application.HollowRectangle.executor": "Run",
+    "Application.HowMuchAreaGraterThanPerimeter.executor": "Run",
+    "Application.IndexOfOrCompare.executor": "Run",
+    "Application.Input.executor": "Run",
+    "Application.InputUSerjava.executor": "Run",
+    "Application.InputfromUser.executor": "Run",
+    "Application.InstanceVariable.executor": "Run",
+    "Application.Intilization.executor": "Run",
+    "Application.JAVA.executor": "Run",
+    "Application.JavaInput.executor": "Run",
+    "Application.LargestElement.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.LinearSerch.executor": "Run",
+    "Application.LocalVariable.executor": "Run",
+    "Application.LogicalConditionals.executor": "Run",
+    "Application.LoginSystem.executor": "Run",
+    "Application.LoopBasics.executor": "Run",
+    "Application.MatrixAddition.executor": "Run",
+    "Application.MatrixMultiplication.executor": "Run",
+    "Application.MaxRowSum.executor": "Run",
+    "Application.MaximumElement.executor": "Run",
+    "Application.MaximumNumber.executor": "Run",
+    "Application.MergeTwoSotedArrays.executor": "Run",
+    "Application.MergeaTwoSoted.executor": "Run",
+    "Application.MethodArray.executor": "Run",
+    "Application.MethodOne.executor": "Run",
+    "Application.MethodOneButDifferent.executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
+    "Application.MinmumElement.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.MixAlphabaetTriangle.executor": "Run",
+    "Application.MixAlphabetNumber.executor": "Run",
+    "Application.MixedAlphabetAndNumber.executor": "Run",
+    "Application.MoreAboutFunction.executor": "Run",
+    "Application.MultiplicationOfTable.executor": "Run",
+    "Application.Multipllicationfromuser.executor": "Run",
+    "Application.NegitiveNumberFirst.executor": "Run",
+    "Application.New.executor": "Run",
+    "Application.New1.executor": "Run",
+    "Application.NextGreaterElement.executor": "Run",
+    "Application.NextPreviousGreaterElement.executor": "Run",
+    "Application.Number1To100DivisibleBy3.executor": "Run",
+    "Application.NumberBridge.executor": "Run",
+    "Application.NumberPyramid.executor": "Run",
+    "Application.NumberPyramidPallindrome.executor": "Run",
+    "Application.NumberReverseSpiral.executor": "Run",
+    "Application.NumberSquare.executor": "Run",
+    "Application.NumberTriangle.executor": "Run",
+    "Application.NumberTriangleReverse.executor": "Run",
+    "Application.NumbersSpiral.executor": "Run",
+    "Application.OOPS.OVERRIDING.test.executor": "Run",
+    "Application.OddNumberTriangle.executor": "Run",
+    "Application.OneTwoTriangle.executor": "Run",
+    "Application.Operator.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
+    "Application.PalindromicNumberPyramid.executor": "Run",
+    "Application.PascalesTriangle.executor": "Run",
+    "Application.PascalsTriangle.executor": "Run",
+    "Application.PassingArgument.executor": "Run",
+    "Application.PassingArrayMethod.executor": "Run",
+    "Application.PassingArrayToMethod.executor": "Run",
+    "Application.PassingArrayToMethos.executor": "Run",
+    "Application.Permutation.executor": "Run",
+    "Application.PermutationFunction.executor": "Run",
+    "Application.PimeComposite.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Practice1.executor": "Run",
+    "Application.Pridict1.executor": "Run",
+    "Application.Pridict3.executor": "Run",
+    "Application.Pridict4.executor": "Run",
+    "Application.PrimeCheck.executor": "Run",
+    "Application.PrimeNumber1_To_100.executor": "Run",
+    "Application.Print1To100.executor": "Run",
+    "Application.Print270triangle.executor": "Run",
+    "Application.PrintAgeWIthName.executor": "Run",
+    "Application.PrintNtimesHello.executor": "Run",
+    "Application.PrintOddNumberBetweenTwoNumber.executor": "Run",
+    "Application.PrintSciiVAlue.executor": "Run",
+    "Application.ProductOfDigit.executor": "Run",
+    "Application.ProfitLoss.executor": "Run",
+    "Application.Prtc2.executor": "Run",
+    "Application.PushBack.executor": "Run",
+    "Application.QuesReverseSentence.executor": "Run",
+    "Application.Question.executor": "Run",
+    "Application.ReaverseStar.executor": "Run",
+    "Application.RectangleStar.executor": "Run",
+    "Application.Remove_dubplicate.executor": "Run",
+    "Application.ReturnKeyword.executor": "Run",
+    "Application.ReturnSquareNumber.executor": "Run",
+    "Application.ReturnType.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.ReverseANumber.executor": "Run",
+    "Application.ReverseAlphabetTriangle.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseEasyWay.executor": "Run",
+    "Application.Reverse_ArrayM2.executor": "Run",
+    "Application.Reverse_array.executor": "Run",
+    "Application.Rhombus.executor": "Run",
+    "Application.Right_Left_Reverse.executor": "Run",
+    "Application.Rotate90Degree.executor": "Run",
+    "Application.Scope.executor": "Run",
+    "Application.ScoreAfterFlipping.executor": "Run",
+    "Application.SearchBottomToTopMatrix.executor": "Run",
+    "Application.SearchRightUpMatrix.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.SecondLargestNum.executor": "Run",
+    "Application.SecondLargestelement.executor": "Run",
+    "Application.SecondMax.executor": "Run",
+    "Application.SetMatrixZeroes.executor": "Run",
+    "Application.SetMatrixZeroesMethodBest.executor": "Run",
+    "Application.SetMatrixZeroesMethodOne.executor": "Run",
+    "Application.SetMatrixZeroesMethodSecond.executor": "Run",
+    "Application.SimpleInterest.executor": "Run",
+    "Application.SolidSquare.executor": "Run",
+    "Application.SortArray.executor": "Run",
+    "Application.SortingM2.executor": "Run",
+    "Application.SortingOneZeros.executor": "Run",
+    "Application.SpiralMatricxTwo.executor": "Run",
+    "Application.SpiralPrinting.executor": "Run",
+    "Application.SquareOfFirstNnumber.executor": "Run",
+    "Application.SquareStar.executor": "Run",
+    "Application.StarBridge.executor": "Run",
+    "Application.StarCross.executor": "Run",
+    "Application.StarDiamond.executor": "Run",
+    "Application.StarFish.executor": "Run",
+    "Application.StarPlus.executor": "Run",
+    "Application.StarTriangle.executor": "Run",
+    "Application.StarTriangleReverse.executor": "Run",
+    "Application.StarTriangleVerticalFlippedComposite.executor": "Run",
+    "Application.StarTriangleVerticallyFlipped.executor": "Run",
+    "Application.StatPyramid.executor": "Run",
+    "Application.StaticVariable.executor": "Run",
+    "Application.StringEqualityTest.executor": "Run",
+    "Application.StudentApp.executor": "Run",
+    "Application.StudentInfo.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.SumArray.executor": "Run",
+    "Application.SumOFEvenDigit.executor": "Run",
+    "Application.SumOFelement.executor": "Run",
+    "Application.SumOfElement.executor": "Run",
+    "Application.SumOfLaastDigit.executor": "Run",
+    "Application.SumOfNumberAndReverse.executor": "Run",
+    "Application.SumOfTwoNUmber.executor": "Run",
+    "Application.SumOfTwoNumber.executor": "Run",
+    "Application.SwapNumber.executor": "Run",
+    "Application.SwapsNumber.executor": "Run",
+    "Application.SymmetricMatrix.executor": "Run",
+    "Application.Tableof19.executor": "Run",
+    "Application.TakeINputNAdPrintTable.executor": "Run",
+    "Application.TakeInput.executor": "Run",
+    "Application.TakingInput.executor": "Run",
+    "Application.TarPyramid.executor": "Run",
+    "Application.TernaryExamples.executor": "Run",
+    "Application.TestAppThree.executor": "Run",
+    "Application.TestApptwo.executor": "Run",
+    "Application.Testapp.executor": "Run",
+    "Application.ThreeDigitNumber.executor": "Run",
+    "Application.TransformIntoTranspose.executor": "Run",
+    "Application.TransposeLeedcode.executor": "Run",
+    "Application.TransposeOfMAtrix.executor": "Run",
+    "Application.TrianglePyramidM2.executor": "Run",
+    "Application.TriangleStar.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.UltaAlphabet.executor": "Run",
+    "Application.UltaNumber.executor": "Run",
+    "Application.UltaStar.executor": "Coverage",
+    "Application.UpdatingVariables.executor": "Run",
+    "Application.UseInputForTable.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.Variablesint.executor": "Run",
+    "Application.VotingEligibility.executor": "Run",
+    "Application.VowelConsonant.executor": "Run",
+    "Application.WavePrint.executor": "Run",
+    "Application.WavePrintStaretFrom.executor": "Run",
+    "Application.WavePrintStaretFromALternateofrowwise.executor": "Run",
+    "Application.WavePrintStaretFromTopToButton.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "Application.WithtExtraVariabletransposeMatrix.executor": "Run",
+    "Application.ZeroOneZeroTriangle.executor": "Run",
+    "Application.ZigZagTraversal.executor": "Run",
+    "Application.advanceProblem.executor": "Run",
+    "Application.append.executor": "Run",
+    "Application.areaOfSurface.executor": "Run",
+    "Application.areaofCircle.executor": "Run",
+    "Application.areaofCircleInput.executor": "Run",
+    "Application.arithmatics.executor": "Run",
+    "Application.basic.executor": "Run",
+    "Application.bubbleSort.executor": "Run",
+    "Application.bubbleSort2.executor": "Run",
+    "Application.builtInStringMehod.executor": "Run",
+    "Application.builtNsort.executor": "Run",
+    "Application.checkIfArrayShortOrNot.executor": "Run",
+    "Application.chqrdata.executor": "Run",
+    "Application.compression.executor": "Run",
+    "Application.continue1.executor": "Run",
+    "Application.converIntoString.executor": "Run",
+    "Application.countVowels.executor": "Run",
+    "Application.deleteAndInsert.executor": "Run",
+    "Application.directEvenNumber.executor": "Run",
+    "Application.divisibleBy5.executor": "Run",
+    "Application.divisibleby3and5.executor": "Run",
+    "Application.divisibleby5or3butnot15.executor": "Run",
+    "Application.doubledatatype.executor": "Run",
+    "Application.equals.executor": "Run",
+    "Application.findReminder.executor": "Run",
+    "Application.frequencyArray.executor": "Run",
+    "Application.gp.executor": "Run",
+    "Application.greatetAreaaAndPerimeter.executor": "Run",
+    "Application.hierarcey.executor": "Run",
+    "Application.ifCordinateliesOnOrigin.executor": "Run",
+    "Application.incrementDecrement.executor": "Run",
+    "Application.initionalize.executor": "Run",
+    "Application.inputStringBuilder.executor": "Run",
+    "Application.isomorphicString.executor": "Run",
+    "Application.javaInput.executor": "Run",
+    "Application.m2Toggle.executor": "Run",
+    "Application.noLieOnStraightLine.executor": "Run",
+    "Application.numberAquare.executor": "Run",
+    "Application.one.executor": "Run",
+    "Application.percentageosSubject.executor": "Run",
+    "Application.plusOperator.executor": "Run",
+    "Application.prct3.executor": "Run",
+    "Application.pridicr4.executor": "Run",
+    "Application.pridict1.executor": "Run",
+    "Application.pridict2.executor": "Run",
+    "Application.pridict3.executor": "Run",
+    "Application.printAllString.executor": "Run",
+    "Application.printfrom10TO1.executor": "Run",
+    "Application.que.executor": "Run",
+    "Application.que1.executor": "Run",
+    "Application.que3.executor": "Run",
+    "Application.question.executor": "Run",
+    "Application.racatice2.executor": "Run",
+    "Application.returnMaximumString.executor": "Run",
+    "Application.returnMinimumString.executor": "Run",
+    "Application.returnNumberOfString.executor": "Run",
+    "Application.reverseWithoutBuiltInFun.executor": "Run",
+    "Application.searchMatrix.executor": "Run",
+    "Application.sideoftriangle.executor": "Run",
+    "Application.sorting.executor": "Run",
+    "Application.sortingAnother.executor": "Run",
+    "Application.special.executor": "Run",
+    "Application.squareofNumber.executor": "Run",
+    "Application.stringBuilder.executor": "Run",
+    "Application.stringBuilderFunction.executor": "Run",
+    "Application.subtrings.executor": "Run",
+    "Application.sumof2.executor": "Run",
+    "Application.sumof2numberinput.executor": "Run",
+    "Application.sumofTwoNumber.executor": "Run",
+    "Application.swap1.executor": "Run",
+    "Application.takeinput.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.test1.executor": "Run",
+    "Application.test2.executor": "Run",
+    "Application.test3.executor": "Run",
+    "Application.testfFour.executor": "Run",
+    "Application.toPassingStringFunctin.executor": "Run",
+    "Application.toggleTheCharacter.executor": "Run",
+    "Application.updateString.executor": "Run",
+    "Application.validAnagram.executor": "Run",
+    "Application.variablesint.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "M:/JavaProgrammingCW",
+    "onboarding.tips.debug.path": "C:/Users/msd7r/Desktop/JavaProgrammingCW/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "two.files.diff.last.used.folder": "M:/JavaProgrammingCW/src/2Darray"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="javaInput" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.bubbleSort2">
+    <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicSorting.bubbleSort" />
+      <module name="JavaProgrammingCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bubbleSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicSorting.bubbleSort2" />
+      <module name="JavaProgrammingCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builtNsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicSorting.builtNsort" />
+      <module name="JavaProgrammingCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkIfArrayShortOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicSorting.checkIfArrayShortOrNot" />
+      <module name="JavaProgrammingCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sumofTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicsOfJava.Practice.sumofTwoNumber" />
+      <module name="JavaProgrammingCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicsOfJava.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bubbleSort2" />
+        <item itemvalue="Application.bubbleSort" />
+        <item itemvalue="Application.builtNsort" />
+        <item itemvalue="Application.checkIfArrayShortOrNot" />
+        <item itemvalue="Application.sumofTwoNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823982f3-12f7-45c6-8649-8cd07f48a328" name="Changes" comment="" />
+      <created>1741809307650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741809307650</updated>
+    </task>
+    <task id="LOCAL-00459" summary="converIntoString">
+      <option name="closed" value="true" />
+      <created>1752431836348</created>
+      <option name="number" value="00459" />
+      <option name="presentableId" value="LOCAL-00459" />
+      <option name="project" value="LOCAL" />
+      <updated>1752431836348</updated>
+    </task>
+    <task id="LOCAL-00460" summary="returnNumberOfString">
+      <option name="closed" value="true" />
+      <created>1752432698596</created>
+      <option name="number" value="00460" />
+      <option name="presentableId" value="LOCAL-00460" />
+      <option name="project" value="LOCAL" />
+      <updated>1752432698596</updated>
+    </task>
+    <task id="LOCAL-00461" summary="returnNumberOfString">
+      <option name="closed" value="true" />
+      <created>1752432702448</created>
+      <option name="number" value="00461" />
+      <option name="presentableId" value="LOCAL-00461" />
+      <option name="project" value="LOCAL" />
+      <updated>1752432702448</updated>
+    </task>
+    <task id="LOCAL-00462" summary="returnNumberOfString">
+      <option name="closed" value="true" />
+      <created>1752434630521</created>
+      <option name="number" value="00462" />
+      <option name="presentableId" value="LOCAL-00462" />
+      <option name="project" value="LOCAL" />
+      <updated>1752434630521</updated>
+    </task>
+    <task id="LOCAL-00463" summary="returnNumberOfString">
+      <option name="closed" value="true" />
+      <created>1752434636128</created>
+      <option name="number" value="00463" />
+      <option name="presentableId" value="LOCAL-00463" />
+      <option name="project" value="LOCAL" />
+      <updated>1752434636128</updated>
+    </task>
+    <task id="LOCAL-00464" summary="updateString">
+      <option name="closed" value="true" />
+      <created>1753002263825</created>
+      <option name="number" value="00464" />
+      <option name="presentableId" value="LOCAL-00464" />
+      <option name="project" value="LOCAL" />
+      <updated>1753002263825</updated>
+    </task>
+    <task id="LOCAL-00465" summary="updateString">
+      <option name="closed" value="true" />
+      <created>1753002270896</created>
+      <option name="number" value="00465" />
+      <option name="presentableId" value="LOCAL-00465" />
+      <option name="project" value="LOCAL" />
+      <updated>1753002270896</updated>
+    </task>
+    <task id="LOCAL-00466" summary="updateString">
+      <option name="closed" value="true" />
+      <created>1753002372480</created>
+      <option name="number" value="00466" />
+      <option name="presentableId" value="LOCAL-00466" />
+      <option name="project" value="LOCAL" />
+      <updated>1753002372480</updated>
+    </task>
+    <task id="LOCAL-00467" summary="StringEqualityTest">
+      <option name="closed" value="true" />
+      <created>1753004787199</created>
+      <option name="number" value="00467" />
+      <option name="presentableId" value="LOCAL-00467" />
+      <option name="project" value="LOCAL" />
+      <updated>1753004787199</updated>
+    </task>
+    <task id="LOCAL-00468" summary="StringEqualityTest">
+      <option name="closed" value="true" />
+      <created>1753004790275</created>
+      <option name="number" value="00468" />
+      <option name="presentableId" value="LOCAL-00468" />
+      <option name="project" value="LOCAL" />
+      <updated>1753004790277</updated>
+    </task>
+    <task id="LOCAL-00469" summary="StringEqualityTest">
+      <option name="closed" value="true" />
+      <created>1753005086911</created>
+      <option name="number" value="00469" />
+      <option name="presentableId" value="LOCAL-00469" />
+      <option name="project" value="LOCAL" />
+      <updated>1753005086911</updated>
+    </task>
+    <task id="LOCAL-00470" summary=" stringBuilder">
+      <option name="closed" value="true" />
+      <created>1753026685204</created>
+      <option name="number" value="00470" />
+      <option name="presentableId" value="LOCAL-00470" />
+      <option name="project" value="LOCAL" />
+      <updated>1753026685205</updated>
+    </task>
+    <task id="LOCAL-00471" summary=" stringBuilder">
+      <option name="closed" value="true" />
+      <created>1753026688351</created>
+      <option name="number" value="00471" />
+      <option name="presentableId" value="LOCAL-00471" />
+      <option name="project" value="LOCAL" />
+      <updated>1753026688351</updated>
+    </task>
+    <task id="LOCAL-00472" summary="stringBuilderFunction">
+      <option name="closed" value="true" />
+      <created>1753027309251</created>
+      <option name="number" value="00472" />
+      <option name="presentableId" value="LOCAL-00472" />
+      <option name="project" value="LOCAL" />
+      <updated>1753027309251</updated>
+    </task>
+    <task id="LOCAL-00473" summary="stringBuilderFunction">
+      <option name="closed" value="true" />
+      <created>1753027311383</created>
+      <option name="number" value="00473" />
+      <option name="presentableId" value="LOCAL-00473" />
+      <option name="project" value="LOCAL" />
+      <updated>1753027311383</updated>
+    </task>
+    <task id="LOCAL-00474" summary="inputStringBuilder">
+      <option name="closed" value="true" />
+      <created>1753248436725</created>
+      <option name="number" value="00474" />
+      <option name="presentableId" value="LOCAL-00474" />
+      <option name="project" value="LOCAL" />
+      <updated>1753248436727</updated>
+    </task>
+    <task id="LOCAL-00475" summary="inputStringBuilder">
+      <option name="closed" value="true" />
+      <created>1753248440231</created>
+      <option name="number" value="00475" />
+      <option name="presentableId" value="LOCAL-00475" />
+      <option name="project" value="LOCAL" />
+      <updated>1753248440231</updated>
+    </task>
+    <task id="LOCAL-00476" summary="toggleTheCharacter">
+      <option name="closed" value="true" />
+      <created>1753253482118</created>
+      <option name="number" value="00476" />
+      <option name="presentableId" value="LOCAL-00476" />
+      <option name="project" value="LOCAL" />
+      <updated>1753253482118</updated>
+    </task>
+    <task id="LOCAL-00477" summary="m2Toggle">
+      <option name="closed" value="true" />
+      <created>1753253730132</created>
+      <option name="number" value="00477" />
+      <option name="presentableId" value="LOCAL-00477" />
+      <option name="project" value="LOCAL" />
+      <updated>1753253730132</updated>
+    </task>
+    <task id="LOCAL-00478" summary="AppendFunction">
+      <option name="closed" value="true" />
+      <created>1753254645667</created>
+      <option name="number" value="00478" />
+      <option name="presentableId" value="LOCAL-00478" />
+      <option name="project" value="LOCAL" />
+      <updated>1753254645668</updated>
+    </task>
+    <task id="LOCAL-00479" summary="AppendFunction">
+      <option name="closed" value="true" />
+      <created>1753254818832</created>
+      <option name="number" value="00479" />
+      <option name="presentableId" value="LOCAL-00479" />
+      <option name="project" value="LOCAL" />
+      <updated>1753254818832</updated>
+    </task>
+    <task id="LOCAL-00480" summary="deleteAndInsert">
+      <option name="closed" value="true" />
+      <created>1753336083269</created>
+      <option name="number" value="00480" />
+      <option name="presentableId" value="LOCAL-00480" />
+      <option name="project" value="LOCAL" />
+      <updated>1753336083270</updated>
+    </task>
+    <task id="LOCAL-00481" summary="deleteAndInsert">
+      <option name="closed" value="true" />
+      <created>1753336086247</created>
+      <option name="number" value="00481" />
+      <option name="presentableId" value="LOCAL-00481" />
+      <option name="project" value="LOCAL" />
+      <updated>1753336086247</updated>
+    </task>
+    <task id="LOCAL-00482" summary="reverseWithoutBuiltInFun">
+      <option name="closed" value="true" />
+      <created>1753342067359</created>
+      <option name="number" value="00482" />
+      <option name="presentableId" value="LOCAL-00482" />
+      <option name="project" value="LOCAL" />
+      <updated>1753342067359</updated>
+    </task>
+    <task id="LOCAL-00483" summary="reverseWithoutBuiltInFun">
+      <option name="closed" value="true" />
+      <created>1753342071506</created>
+      <option name="number" value="00483" />
+      <option name="presentableId" value="LOCAL-00483" />
+      <option name="project" value="LOCAL" />
+      <updated>1753342071506</updated>
+    </task>
+    <task id="LOCAL-00484" summary="update">
+      <option name="closed" value="true" />
+      <created>1753342182670</created>
+      <option name="number" value="00484" />
+      <option name="presentableId" value="LOCAL-00484" />
+      <option name="project" value="LOCAL" />
+      <updated>1753342182670</updated>
+    </task>
+    <task id="LOCAL-00485" summary="QuesReverseSentence">
+      <option name="closed" value="true" />
+      <created>1753346077278</created>
+      <option name="number" value="00485" />
+      <option name="presentableId" value="LOCAL-00485" />
+      <option name="project" value="LOCAL" />
+      <updated>1753346077278</updated>
+    </task>
+    <task id="LOCAL-00486" summary="QuesReverseSentence">
+      <option name="closed" value="true" />
+      <created>1753346079639</created>
+      <option name="number" value="00486" />
+      <option name="presentableId" value="LOCAL-00486" />
+      <option name="project" value="LOCAL" />
+      <updated>1753346079639</updated>
+    </task>
+    <task id="LOCAL-00487" summary="sorting">
+      <option name="closed" value="true" />
+      <created>1753347954261</created>
+      <option name="number" value="00487" />
+      <option name="presentableId" value="LOCAL-00487" />
+      <option name="project" value="LOCAL" />
+      <updated>1753347954262</updated>
+    </task>
+    <task id="LOCAL-00488" summary="sorting">
+      <option name="closed" value="true" />
+      <created>1753347970392</created>
+      <option name="number" value="00488" />
+      <option name="presentableId" value="LOCAL-00488" />
+      <option name="project" value="LOCAL" />
+      <updated>1753347970392</updated>
+    </task>
+    <task id="LOCAL-00489" summary="validAnagram">
+      <option name="closed" value="true" />
+      <created>1753439525367</created>
+      <option name="number" value="00489" />
+      <option name="presentableId" value="LOCAL-00489" />
+      <option name="project" value="LOCAL" />
+      <updated>1753439525367</updated>
+    </task>
+    <task id="LOCAL-00490" summary="validAnagram">
+      <option name="closed" value="true" />
+      <created>1753439528653</created>
+      <option name="number" value="00490" />
+      <option name="presentableId" value="LOCAL-00490" />
+      <option name="project" value="LOCAL" />
+      <updated>1753439528653</updated>
+    </task>
+    <task id="LOCAL-00491" summary="frequencyArray">
+      <option name="closed" value="true" />
+      <created>1753515300970</created>
+      <option name="number" value="00491" />
+      <option name="presentableId" value="LOCAL-00491" />
+      <option name="project" value="LOCAL" />
+      <updated>1753515300970</updated>
+    </task>
+    <task id="LOCAL-00492" summary="frequencyArray">
+      <option name="closed" value="true" />
+      <created>1753515303870</created>
+      <option name="number" value="00492" />
+      <option name="presentableId" value="LOCAL-00492" />
+      <option name="project" value="LOCAL" />
+      <updated>1753515303870</updated>
+    </task>
+    <task id="LOCAL-00493" summary="isomorphicString">
+      <option name="closed" value="true" />
+      <created>1753606097497</created>
+      <option name="number" value="00493" />
+      <option name="presentableId" value="LOCAL-00493" />
+      <option name="project" value="LOCAL" />
+      <updated>1753606097497</updated>
+    </task>
+    <task id="LOCAL-00494" summary="isomorphicString">
+      <option name="closed" value="true" />
+      <created>1753606101044</created>
+      <option name="number" value="00494" />
+      <option name="presentableId" value="LOCAL-00494" />
+      <option name="project" value="LOCAL" />
+      <updated>1753606101044</updated>
+    </task>
+    <task id="LOCAL-00495" summary="returnMaximumString">
+      <option name="closed" value="true" />
+      <created>1753608101933</created>
+      <option name="number" value="00495" />
+      <option name="presentableId" value="LOCAL-00495" />
+      <option name="project" value="LOCAL" />
+      <updated>1753608101933</updated>
+    </task>
+    <task id="LOCAL-00496" summary="returnMaximumString">
+      <option name="closed" value="true" />
+      <created>1753608119006</created>
+      <option name="number" value="00496" />
+      <option name="presentableId" value="LOCAL-00496" />
+      <option name="project" value="LOCAL" />
+      <updated>1753608119006</updated>
+    </task>
+    <task id="LOCAL-00497" summary="returnMinimumString">
+      <option name="closed" value="true" />
+      <created>1753610187472</created>
+      <option name="number" value="00497" />
+      <option name="presentableId" value="LOCAL-00497" />
+      <option name="project" value="LOCAL" />
+      <updated>1753610187472</updated>
+    </task>
+    <task id="LOCAL-00498" summary="returnMinimumString">
+      <option name="closed" value="true" />
+      <created>1753610190886</created>
+      <option name="number" value="00498" />
+      <option name="presentableId" value="LOCAL-00498" />
+      <option name="project" value="LOCAL" />
+      <updated>1753610190886</updated>
+    </task>
+    <task id="LOCAL-00499" summary="returnMinimumString">
+      <option name="closed" value="true" />
+      <created>1753613168871</created>
+      <option name="number" value="00499" />
+      <option name="presentableId" value="LOCAL-00499" />
+      <option name="project" value="LOCAL" />
+      <updated>1753613168871</updated>
+    </task>
+    <task id="LOCAL-00500" summary="returnMinimumString">
+      <option name="closed" value="true" />
+      <created>1753613172262</created>
+      <option name="number" value="00500" />
+      <option name="presentableId" value="LOCAL-00500" />
+      <option name="project" value="LOCAL" />
+      <updated>1753613172262</updated>
+    </task>
+    <task id="LOCAL-00501" summary="returnMinimumString">
+      <option name="closed" value="true" />
+      <created>1753613487937</created>
+      <option name="number" value="00501" />
+      <option name="presentableId" value="LOCAL-00501" />
+      <option name="project" value="LOCAL" />
+      <updated>1753613487937</updated>
+    </task>
+    <task id="LOCAL-00502" summary="compression">
+      <option name="closed" value="true" />
+      <created>1753615580297</created>
+      <option name="number" value="00502" />
+      <option name="presentableId" value="LOCAL-00502" />
+      <option name="project" value="LOCAL" />
+      <updated>1753615580297</updated>
+    </task>
+    <task id="LOCAL-00503" summary="compression">
+      <option name="closed" value="true" />
+      <created>1753638159694</created>
+      <option name="number" value="00503" />
+      <option name="presentableId" value="LOCAL-00503" />
+      <option name="project" value="LOCAL" />
+      <updated>1753638159694</updated>
+    </task>
+    <task id="LOCAL-00504" summary="add">
+      <option name="closed" value="true" />
+      <created>1756472408703</created>
+      <option name="number" value="00504" />
+      <option name="presentableId" value="LOCAL-00504" />
+      <option name="project" value="LOCAL" />
+      <updated>1756472408703</updated>
+    </task>
+    <task id="LOCAL-00505" summary="public class checkIfArrayShortOrNot {">
+      <option name="closed" value="true" />
+      <created>1756489593561</created>
+      <option name="number" value="00505" />
+      <option name="presentableId" value="LOCAL-00505" />
+      <option name="project" value="LOCAL" />
+      <updated>1756489593561</updated>
+    </task>
+    <task id="LOCAL-00506" summary="builtNsort">
+      <option name="closed" value="true" />
+      <created>1756624118270</created>
+      <option name="number" value="00506" />
+      <option name="presentableId" value="LOCAL-00506" />
+      <option name="project" value="LOCAL" />
+      <updated>1756624118270</updated>
+    </task>
+    <task id="LOCAL-00507" summary="bubbleSor">
+      <option name="closed" value="true" />
+      <created>1756626879883</created>
+      <option name="number" value="00507" />
+      <option name="presentableId" value="LOCAL-00507" />
+      <option name="project" value="LOCAL" />
+      <updated>1756626879883</updated>
+    </task>
+    <option name="localTasksCounter" value="508" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="72" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="128" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="returnNumberOfString" />
+    <MESSAGE value="updateString" />
+    <MESSAGE value="StringEqualityTest" />
+    <MESSAGE value=" stringBuilder" />
+    <MESSAGE value="stringBuilderFunction" />
+    <MESSAGE value="inputStringBuilder" />
+    <MESSAGE value="toggleTheCharacter" />
+    <MESSAGE value="m2Toggle" />
+    <MESSAGE value="AppendFunction" />
+    <MESSAGE value="deleteAndInsert" />
+    <MESSAGE value="reverseWithoutBuiltInFun" />
+    <MESSAGE value="update" />
+    <MESSAGE value="QuesReverseSentence" />
+    <MESSAGE value="sorting" />
+    <MESSAGE value="validAnagram" />
+    <MESSAGE value="frequencyArray" />
+    <MESSAGE value="isomorphicString" />
+    <MESSAGE value="returnMaximumString" />
+    <MESSAGE value="returnMinimumString" />
+    <MESSAGE value="compression" />
+    <MESSAGE value="init commit" />
+    <MESSAGE value="add" />
+    <MESSAGE value="public class checkIfArrayShortOrNot {" />
+    <MESSAGE value="builtNsort" />
+    <MESSAGE value="bubbleSor" />
+    <option name="LAST_COMMIT_MESSAGE" value="bubbleSor" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/countVowels.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaProgrammingCW$UltaStar.ic" NAME="UltaStar Coverage Results" MODIFIED="1743707155122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>PatternPrinting.*</FILTER>
+    </SUITE>
+  </component>
+</project>
