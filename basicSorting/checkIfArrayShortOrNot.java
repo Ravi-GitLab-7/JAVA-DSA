@@ -1,7 +1,7 @@
 package basicSorting;
 public class checkIfArrayShortOrNot {
     public static void main(String[] args) {
-        int [] arr = {1,2,4,5,20,6,34};
+        int [] arr = {1,2,4,6,34};
         int n = arr.length;
         boolean flag = true;
         for (int i = 0; i <n-1; i++) {
