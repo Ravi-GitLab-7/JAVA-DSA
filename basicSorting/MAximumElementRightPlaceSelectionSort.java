@@ -11,7 +11,7 @@ public class MAximumElementRightPlaceSelectionSort {
         print(arr);
         System.out.println();
 
-            // in each pass kth term pass in right places
+            // in each pass kth term pass in right place
         for (int i = 0; i < n - 1; i++) {
             int maxIdx = 0;
             for (int j = 1; j < n - i; j++) {
