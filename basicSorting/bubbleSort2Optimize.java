@@ -13,7 +13,7 @@ public class bubbleSort2Optimize {
         System.out.println();
 
         //bubble sort => 2
-        boolean flag = true;
+        boolean flag = false;
         for(int x =0;x<n-1;x++){  //for passing  n-1 paases
             for (int i = 0; i <n-1-x ; i++) {
                 if(arr[i]>arr[i+1]){
@@ -23,7 +23,7 @@ public class bubbleSort2Optimize {
                     flag = true;
                 }
             }
-            if(flag= true) break;
+            if(flag= false) break;
         }
         print(arr);
     }
