@@ -8,7 +8,7 @@ public class lowerBond {
         int target = 60;
         int lb = n;
         while(lo<=hi){
-            int mid = lo +(hi=lo)/2;
+            int mid = lo +(hi-lo)/2;
             if(arr[mid]>=target) {
                 lb = Math.min(lb, mid); // always write mid
                 hi = mid-1;
