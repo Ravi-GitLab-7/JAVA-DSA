@@ -4,9 +4,7 @@ public class findFirstAndLastElememnt {
         int[] arr = {10, 10, 20, 20, 20, 20, 30, 30, 40, 40};
         int n = arr.length;
         int target = 20;
-
         int[] ans = new int[2];
-
         // first position
         int fp = -1, lo = 0, hi = n - 1;
         while (lo <= hi) {
@@ -24,7 +22,6 @@ public class findFirstAndLastElememnt {
                 hi = mid - 1;
             }
         }
-
         // second position
         int lp = -1;
         lo = 0;
@@ -43,13 +40,12 @@ public class findFirstAndLastElememnt {
             } else {
                 hi = mid - 1;
             }
+
+            ans[0] = fp;
+            ans[1] = lp;
+            // print result
+            System.out.println("First position = " + ans[0]);
+            System.out.println("Last position = " + ans[1]);
         }
-
-        ans[0] = fp;
-        ans[1] = lp;
-
-        // print result
-        System.out.println("First position = " + ans[0]);
-        System.out.println("Last position = " + ans[1]);
     }
 }

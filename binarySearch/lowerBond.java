@@ -5,7 +5,7 @@ public class lowerBond {
         int[] arr ={13,45,56,56,23,86,45,67,90};
         int n = arr.length;
         int lo = 0 , hi = n-1;
-        int target = 60;
+        int target = 67;
         int lb = n;
         while(lo<=hi){
             int mid = lo +(hi-lo)/2;
