@@ -7,7 +7,8 @@ public class sqrTihoutInbuildFunction {
         int lo = 0,hi =n;
         while(lo<=hi){
             int mid= lo+(hi-lo)/2;
-            if(mid>n/mid) hi = mid-1;  // n/m take insted of original bianry number code
+            if(mid == n / mid) return mid;
+            else if(mid>n/mid) hi = mid-1;  // n/m take insted of original bianry number code
             else lo = mid+1;
         }
         return hi;
