@@ -26,6 +26,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/07ravi-lab/JAVA.git",
+    "accountId": "16f09670-9836-4425-8030-0e96191abd64"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -51,6 +60,7 @@
     "Application.AuthenticationSystem.executor": "Run",
     "Application.CheckSortedArray.executor": "Run",
     "Application.Check_pallindrone.executor": "Run",
+    "Application.Duplicate_Sum.executor": "Run",
     "Application.MAximumElementRightPlaceSelectionSort.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.authentication.executor": "Run",
@@ -80,8 +90,8 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.Solution">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals.ArmstrongNumber" />
+    <configuration name="AuthenticationSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditionals.AuthenticationSystem" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
@@ -93,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AuthenticationSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals.AuthenticationSystem" />
+    <configuration name="Duplicate_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Duplicate_Sum" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditionals.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,13 +149,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaProgrammingCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaProgrammingCW" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Duplicate_Sum" />
         <item itemvalue="Application.findUpperBond" />
         <item itemvalue="Application.authentication" />
         <item itemvalue="Application.AuthenticationSystem" />
-        <item itemvalue="Application.ArmstrongNumber" />
       </list>
     </recent_temporary>
   </component>
