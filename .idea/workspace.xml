@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="">
+    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarySearch/findUpperBond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearch/findUpperBond.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarySearch/searchRotedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearch/searchRotedArray.java" afterDir="false" />
@@ -72,6 +72,7 @@
     "Application.transform.executor": "Run",
     "Application.upperBond.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -292,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758547204770</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="updates">
+      <option name="closed" value="true" />
+      <created>1758635880319</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1758635880319</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,6 +333,7 @@
     <MESSAGE value="sqrTihoutInbuildFunction" />
     <MESSAGE value="update" />
     <MESSAGE value="authentication" />
-    <option name="LAST_COMMIT_MESSAGE" value="authentication" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
 </project>
