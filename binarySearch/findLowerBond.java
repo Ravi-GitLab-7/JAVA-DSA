@@ -1,7 +1,7 @@
 package binarySearch;
 public class findLowerBond {
     public static void main(String[] args) {
-        int [] arr = {4,6,10,12,18,18,20,20,30,46};
+        int [] arr = {4, 6, 10, 12, 18, 18, 20, 20, 30, 45};
         int n = arr.length;
         int lb = n;
         int lo=0,hi=n-1;
