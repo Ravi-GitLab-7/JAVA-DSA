@@ -1,15 +1,17 @@
 package Recursion;
 import java.util.Scanner;
-public class factorial {
-    public static int fact(int n){
-        if(n==1 || n==0) return 1;  // base case
-        int ans = n * fact(n - 1); // recursive call
-        return ans;
+public class sumFrom1toN {
+    public static void sum(int n,int s){
+        if(n==0){  //base case
+            System.out.println(s);
+            return;
+        }
+       sum(n-1,s+n);  //call and work
     }
     public static void main(String[] args) {
         Scanner Sc = new Scanner(System.in);
         System.out.print("Enter the n: ");
         int n = Sc.nextInt();
-        System.out.println(fact(n));
+        sum(n,0);
     }
 }
