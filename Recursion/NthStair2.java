@@ -12,6 +12,5 @@ public class NthStair2 {
         System.out.print("Enter the n: ");
         int n = Sc.nextInt();
         System.out.println(stair(n));
-        Sc.close();
     }
 }
