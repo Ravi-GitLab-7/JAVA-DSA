@@ -7,7 +7,6 @@ public class increaseSequencesInString {
             result.add(current); // add the sequence
             return;
         }
-
         for (int i = start; i < s.length(); i++) {
             current += s.charAt(i); // take
             printSequence(i + 1, s, k, current, result); // recursive call
