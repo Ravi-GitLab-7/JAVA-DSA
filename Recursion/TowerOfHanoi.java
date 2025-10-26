@@ -1,4 +1,5 @@
 package Recursion;
+import java.util.Scanner;
 public class TowerOfHanoi {
     // Recursive function to move disks
     public static void towerOfHanoi(int n, char source, char helper, char destination) {
@@ -19,10 +20,12 @@ public class TowerOfHanoi {
     }
 
     public static void main(String[] args) {
-        int n = 3; // number of disks
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the N: ");
+        int n = sc.nextInt();
         towerOfHanoi(n, 'A', 'B', 'C'); // A=source, B=helper, C=destination
 
         int totalMoves = (int) (Math.pow(2, n) - 1);
-        System.out.println("\nTotal moves: " + totalMoves);
+        System.out.println("Total moves: " + totalMoves);
     }
 }
