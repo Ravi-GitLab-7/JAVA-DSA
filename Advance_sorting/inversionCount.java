@@ -5,21 +5,26 @@ public class inversionCount {
             for(int ele : arr) System.out.print(ele+" ");
             System.out.println();
         }
-        public static void inversion(int []a,int []b){
-            int i =0,j=0;
-            while(i<a.length && j<b.length){
-                if(a[i]>b[j]){
-                    count +=(a.length -1);
-                    j++;
-                }
-                else i++;
-            }
-        }
+//        public static void inversion(int []a,int []b){
+//            int i =0,j=0;
+//            while(i<a.length && j<b.length){
+//                if(a[i]>b[j]){
+//                    count +=(a.length -i);
+//                    j++;
+//                }
+//                else i++;
+//            }
+//        }
         public static void merge(int[] a, int[] b, int[] c){
             int i = 0, j = 0, k = 0;
             while(i < a.length && j < b.length){
-                if(a[i] < b[j]) c[k++] = a[i++];
-                else c[k++] = b[j++];
+                if(a[i] < b[j]) {
+                    c[k++] = a[i++];
+                }
+                else { // a[i]>b[j]
+                    count +=(a.length -i);  //extra
+                    c[k++] = b[j++];
+                }
             }
             while(i < a.length) c[k++] = a[i++];
             while(j < b.length) c[k++] = b[j++];
@@ -38,14 +43,14 @@ public class inversionCount {
             mergesort(a);
             mergesort(b);
             //InversionCount
-            inversion(a,b);
+//            inversion(a,b);
             // final merge
             merge(a, b, arr);
             // for delete extra spaces
             a = null; b = null;
         }
         public static void main(String[] args) {
-            int [] arr = {10, 23, 456, 67, 32, 54};
+            int [] arr = {8,2,5,3,1,4};
             System.out.print("Before sorting: ");
             print(arr);
             mergesort(arr);
