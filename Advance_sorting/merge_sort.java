@@ -28,6 +28,8 @@ public class merge_sort {
         mergesort(b);
         // final merge
         merge(a, b, arr);
+        // for delete extra spaces
+        a = null; b = null;
     }
     public static void main(String[] args) {
         int [] arr = {10, 23, 456, 67, 32, 54};
