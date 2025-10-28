@@ -11,7 +11,7 @@ public class arraangeelement {
             ans.remove(ans.size() - 1);
         }
         // Skip A[i]
-        generateformA(a, b, i + 1, j, ans);
+        generateformA(a, b, i + 1, j, ans); //recursive call
     }
     public static void generateformB(int []a, int[] b, int i, int j, List<Integer> ans) {
         if(j == b.length) return;
@@ -23,7 +23,7 @@ public class arraangeelement {
             ans.remove(ans.size() - 1);
         }
         // Skip B[j]
-        generateformB(a, b, i, j + 1, ans);
+        generateformB(a, b, i, j + 1, ans);  //recursive call
     }
     public static void main(String[] args) {
         int[] a = {10, 15, 25};
