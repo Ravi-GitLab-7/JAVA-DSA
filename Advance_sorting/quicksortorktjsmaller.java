@@ -49,7 +49,7 @@ public class quicksortorktjsmaller {
         else quickselect(arr, idx + 1, hi, k);
     }
     public static void main(String[] args) {
-        int[] arr = {2,1,4,8,6,7,3,9};
+        int[] arr = {8,1,4,9,6,3,5,2,7,0};
         int n = arr.length;
         int k = 3;
         System.out.println("Array elements:");
