@@ -17,7 +17,7 @@ public class quicksortalgo {
         for(int i = lo + 1; i <= hi; i++){
             if(arr[i] < pivot) smallercount++;
         }
-        int correctidx = pivotidx + smallercount;  // should be lo + smallercount, not pivot + smallercount
+        int correctidx = lo + smallercount;  // should be lo + smallercount, not pivot + smallercount
         swap(arr, pivotidx, correctidx);
         // partition
         int i = lo, j = hi;
