@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="updates">
+    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="duplicatelement">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_23_2025_7_46_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_23_2025_7_46_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarySearch/findUpperBond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearch/findUpperBond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarySearch/searchRotedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearch/searchRotedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +28,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/07ravi-lab/JAVA.git",
-    "accountId": "16f09670-9836-4425-8030-0e96191abd64"
+    "accountId": "ee3ce6a4-3931-400b-9818-8a4e5e270b20"
   }
 }]]></component>
   <component name="ProblemsViewState">
@@ -62,40 +64,91 @@
     "Application.Check_pallindrone.executor": "Run",
     "Application.Duplicate_Sum.executor": "Run",
     "Application.MAximumElementRightPlaceSelectionSort.executor": "Run",
+    "Application.MazePath.executor": "Run",
+    "Application.MergeTwoSotedArrays.executor": "Run",
+    "Application.NthStair.executor": "Run",
+    "Application.NthStair2.executor": "Run",
+    "Application.PowerOfTwoReturn.executor": "Run",
+    "Application.Reversewithout0s.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.SumTriangle.executor": "Run",
+    "Application.TowerOfHanoi.executor": "Run",
+    "Application.arraangeelement.executor": "Run",
+    "Application.arrayTraversal.executor": "Run",
     "Application.authentication.executor": "Run",
     "Application.bs.executor": "Run",
     "Application.bubbleSort2.executor": "Run",
     "Application.bubbleSort2Optimize.executor": "Run",
     "Application.bubleSortDecereasingOrder.executor": "Run",
     "Application.checkIfArrayShortOrNot.executor": "Run",
+    "Application.compression.executor": "Run",
+    "Application.countAndSay.executor": "Run",
+    "Application.cyclesort.executor": "Run",
+    "Application.duplicatelement.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.fibonacciNo.executor": "Run",
     "Application.findFirstAndLastElememnt.executor": "Run",
     "Application.findLowerBond.executor": "Run",
     "Application.findUpperBond.executor": "Run",
+    "Application.findWayStairs.executor": "Run",
     "Application.firstOccurance.executor": "Run",
+    "Application.functionCalls.executor": "Run",
+    "Application.generateparentheses.executor": "Run",
+    "Application.howManyVowelsInString.executor": "Run",
+    "Application.increaseSequences.executor": "Run",
+    "Application.increaseSequencesInString.executor": "Run",
     "Application.insertion.executor": "Run",
+    "Application.inversionCount.executor": "Run",
     "Application.knowNoOfSwaos.executor": "Run",
     "Application.lowerBond.executor": "Run",
     "Application.majorityElement.executor": "Run",
+    "Application.mergeTwoSortedArray.executor": "Run",
+    "Application.merge_sort.executor": "Run",
+    "Application.mergesortdecendingorder.executor": "Run",
     "Application.moveZeroes.executor": "Run",
+    "Application.permutations.executor": "Run",
+    "Application.powerLinear.executor": "Run",
+    "Application.powerLiner2.executor": "Run",
+    "Application.preInPost.executor": "Run",
+    "Application.print1ToN.executor": "Run",
+    "Application.printIndexElement.executor": "Run",
+    "Application.printNto1.executor": "Run",
+    "Application.printStringdPermutationWithoutConsu1s.executor": "Run",
+    "Application.printSubsetInArray.executor": "Run",
+    "Application.printSubsets.executor": "Run",
+    "Application.quicksort2.executor": "Run",
+    "Application.quicksortalgo.executor": "Run",
+    "Application.quicksortorktjsmaller.executor": "Run",
+    "Application.ravi.executor": "Run",
+    "Application.reverseArray.executor": "Run",
+    "Application.smallerDivisorGivenThreshold.executor": "Run",
+    "Application.sortlinear.executor": "Run",
     "Application.sqrTihoutInbuildFunction.executor": "Run",
+    "Application.stringTraversal.executor": "Run",
+    "Application.sumBetweenAandB.executor": "Run",
+    "Application.sumFrom1toN.executor": "Run",
+    "Application.sumReurn.executor": "Run",
     "Application.transform.executor": "Run",
     "Application.upperBond.executor": "Run",
+    "Application.zigZag.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.splitter.proportion": "0.28",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="AuthenticationSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals.AuthenticationSystem" />
+  <component name="RunManager" selected="Application.duplicatelement">
+    <configuration name="cyclesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_sorting.cyclesort" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditionals.*" />
+          <option name="PATTERN" value="Advance_sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicate_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Duplicate_Sum" />
+    <configuration name="duplicatelement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_sorting.cyclesort.duplicatelement" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Advance_sorting.cyclesort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,19 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="JavaProgrammingCW" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="authentication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals.authentication" />
+    <configuration name="mergesortdecendingorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_sorting.mergesortdecendingorder" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditionals.*" />
+          <option name="PATTERN" value="Advance_sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findUpperBond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.findUpperBond" />
+    <configuration name="quicksortorktjsmaller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_sorting.quicksortorktjsmaller" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarySearch.*" />
+          <option name="PATTERN" value="Advance_sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,181 +195,443 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="sortlinear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_sorting.sortlinear" />
       <module name="JavaProgrammingCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Advance_sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="JavaProgrammingCW" />
-      <option name="filePath" />
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Duplicate_Sum" />
-        <item itemvalue="Application.findUpperBond" />
-        <item itemvalue="Application.authentication" />
-        <item itemvalue="Application.AuthenticationSystem" />
+        <item itemvalue="Application.duplicatelement" />
+        <item itemvalue="Application.cyclesort" />
+        <item itemvalue="Application.sortlinear" />
+        <item itemvalue="Application.mergesortdecendingorder" />
+        <item itemvalue="Application.quicksortorktjsmaller" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="MAximumElementRightPlaceSelectionSort">
-      <option name="closed" value="true" />
-      <created>1756820338422</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1756820338422</updated>
-    </task>
     <task active="true" id="Default" summary="Default task">
       <changelist id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="MAximumElementRightPlaceSelectionSort" />
       <created>1756835900441</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756835900441</updated>
+      <workItem from="1763145923320" duration="270000" />
     </task>
-    <task id="LOCAL-00002" summary="majorityElement">
+    <task id="LOCAL-00021" summary="Recursion">
       <option name="closed" value="true" />
-      <created>1756926600110</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+      <created>1760803852932</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1756926600110</updated>
+      <updated>1760803852932</updated>
     </task>
-    <task id="LOCAL-00003" summary="updated">
+    <task id="LOCAL-00022" summary="factorial">
       <option name="closed" value="true" />
-      <created>1757066781768</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+      <created>1760807727030</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1757066781768</updated>
+      <updated>1760807727030</updated>
     </task>
-    <task id="LOCAL-00004" summary="swapCountWithBubbleSort">
+    <task id="LOCAL-00023" summary="print1ToN">
       <option name="closed" value="true" />
-      <created>1757068767110</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+      <created>1760868270743</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1757068767110</updated>
+      <updated>1760868270743</updated>
     </task>
-    <task id="LOCAL-00005" summary="transform">
+    <task id="LOCAL-00024" summary="update">
       <option name="closed" value="true" />
-      <created>1757092837923</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+      <created>1760874053178</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1757092837923</updated>
+      <updated>1760874053178</updated>
     </task>
-    <task id="LOCAL-00006" summary="binarySeaach">
+    <task id="LOCAL-00025" summary="powerLiner2">
       <option name="closed" value="true" />
-      <created>1757158968078</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+      <created>1760940568197</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1757158968078</updated>
+      <updated>1760940568197</updated>
     </task>
-    <task id="LOCAL-00007" summary="bubleSortDecereasingOrder">
+    <task id="LOCAL-00026" summary="NthStair">
       <option name="closed" value="true" />
-      <created>1757268049161</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+      <created>1760951829173</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1757268049161</updated>
+      <updated>1760951829173</updated>
     </task>
-    <task id="LOCAL-00008" summary="CheckSortedArray">
+    <task id="LOCAL-00027" summary="NthStair2">
       <option name="closed" value="true" />
-      <created>1757268582618</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+      <created>1760957423180</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1757268582618</updated>
+      <updated>1760957423180</updated>
     </task>
-    <task id="LOCAL-00009" summary="lowerBond">
+    <task id="LOCAL-00028" summary="MazePath">
       <option name="closed" value="true" />
-      <created>1757359112770</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+      <created>1760958209528</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1757359112770</updated>
+      <updated>1760958209528</updated>
     </task>
-    <task id="LOCAL-00010" summary="upperBond">
+    <task id="LOCAL-00029" summary="MazePath update">
       <option name="closed" value="true" />
-      <created>1757360722870</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+      <created>1760959602108</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1757360722870</updated>
+      <updated>1760959602108</updated>
     </task>
-    <task id="LOCAL-00011" summary="findLowerBond">
+    <task id="LOCAL-00030" summary="zigZag">
       <option name="closed" value="true" />
-      <created>1757389130268</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+      <created>1761069568987</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1757389130268</updated>
+      <updated>1761069568987</updated>
     </task>
-    <task id="LOCAL-00012" summary="findUpperBond">
+    <task id="LOCAL-00031" summary="public class arrayTraversal {">
       <option name="closed" value="true" />
-      <created>1757389965534</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+      <created>1761071815109</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
       <option name="project" value="LOCAL" />
-      <updated>1757389965534</updated>
+      <updated>1761071815109</updated>
     </task>
-    <task id="LOCAL-00013" summary="findFirstAndLastElememnt">
+    <task id="LOCAL-00032" summary="stringTraversal">
       <option name="closed" value="true" />
-      <created>1757438561711</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+      <created>1761072018871</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
-      <updated>1757438561711</updated>
+      <updated>1761072018871</updated>
     </task>
-    <task id="LOCAL-00014" summary="firstOccurance">
+    <task id="LOCAL-00033" summary="skipCharcter">
       <option name="closed" value="true" />
-      <created>1757522881357</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+      <created>1761120901771</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1757522881357</updated>
+      <updated>1761120901771</updated>
     </task>
-    <task id="LOCAL-00015" summary="sqrTihoutInbuildFunction">
+    <task id="LOCAL-00034" summary="printSubsetsInString">
       <option name="closed" value="true" />
-      <created>1757760800180</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+      <created>1761123086466</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
-      <updated>1757760800180</updated>
+      <updated>1761123086466</updated>
     </task>
-    <task id="LOCAL-00016" summary="update">
+    <task id="LOCAL-00035" summary="printSubsetInArray">
       <option name="closed" value="true" />
-      <created>1757761474633</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+      <created>1761125516156</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1757761474633</updated>
+      <updated>1761125516156</updated>
     </task>
-    <task id="LOCAL-00017" summary="authentication">
+    <task id="LOCAL-00036" summary="increaseSequences">
       <option name="closed" value="true" />
-      <created>1758547204770</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+      <created>1761141940982</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
-      <updated>1758547204770</updated>
+      <updated>1761141940982</updated>
     </task>
-    <task id="LOCAL-00018" summary="updates">
+    <task id="LOCAL-00037" summary="increaseSequencesInString">
       <option name="closed" value="true" />
-      <created>1758635880319</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+      <created>1761142533169</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
-      <updated>1758635880319</updated>
+      <updated>1761142533169</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00038" summary="increaseSequencesInString">
+      <option name="closed" value="true" />
+      <created>1761144711239</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1761144711239</updated>
+    </task>
+    <task id="LOCAL-00039" summary="permutations">
+      <option name="closed" value="true" />
+      <created>1761145160834</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1761145160834</updated>
+    </task>
+    <task id="LOCAL-00040" summary="printStringdPermutation">
+      <option name="closed" value="true" />
+      <created>1761204891774</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1761204891774</updated>
+    </task>
+    <task id="LOCAL-00041" summary="howManyVowelsInString">
+      <option name="closed" value="true" />
+      <created>1761248435637</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1761248435637</updated>
+    </task>
+    <task id="LOCAL-00042" summary="TowerOfHanoi">
+      <option name="closed" value="true" />
+      <created>1761304044139</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1761304044139</updated>
+    </task>
+    <task id="LOCAL-00043" summary="update">
+      <option name="closed" value="true" />
+      <created>1761448437331</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1761448437331</updated>
+    </task>
+    <task id="LOCAL-00044" summary="sumBetweenAandB">
+      <option name="closed" value="true" />
+      <created>1761451584581</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1761451584581</updated>
+    </task>
+    <task id="LOCAL-00045" summary="findWayStairs">
+      <option name="closed" value="true" />
+      <created>1761452847998</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1761452847998</updated>
+    </task>
+    <task id="LOCAL-00046" summary="PowerOfTwoReturn">
+      <option name="closed" value="true" />
+      <created>1761453971278</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1761453971278</updated>
+    </task>
+    <task id="LOCAL-00047" summary="reverseArray">
+      <option name="closed" value="true" />
+      <created>1761455608282</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1761455608282</updated>
+    </task>
+    <task id="LOCAL-00048" summary="printIndexElement">
+      <option name="closed" value="true" />
+      <created>1761456523861</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1761456523861</updated>
+    </task>
+    <task id="LOCAL-00049" summary="countAndSay">
+      <option name="closed" value="true" />
+      <created>1761457852038</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1761457852038</updated>
+    </task>
+    <task id="LOCAL-00050" summary="SumTriangle">
+      <option name="closed" value="true" />
+      <created>1761460480941</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1761460480941</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Reversewithout0s">
+      <option name="closed" value="true" />
+      <created>1761476662807</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1761476662807</updated>
+    </task>
+    <task id="LOCAL-00052" summary="mergeTwoSortedArray">
+      <option name="closed" value="true" />
+      <created>1761502873389</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1761502873389</updated>
+    </task>
+    <task id="LOCAL-00053" summary="merge_sort">
+      <option name="closed" value="true" />
+      <created>1761559939265</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1761559939265</updated>
+    </task>
+    <task id="LOCAL-00054" summary="merge_sort">
+      <option name="closed" value="true" />
+      <created>1761573058962</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1761573058962</updated>
+    </task>
+    <task id="LOCAL-00055" summary="inversionCount">
+      <option name="closed" value="true" />
+      <created>1761587135536</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1761587135536</updated>
+    </task>
+    <task id="LOCAL-00056" summary="update">
+      <option name="closed" value="true" />
+      <created>1761588649004</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1761588649004</updated>
+    </task>
+    <task id="LOCAL-00057" summary="quicksortalgo">
+      <option name="closed" value="true" />
+      <created>1761650731687</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1761650731687</updated>
+    </task>
+    <task id="LOCAL-00058" summary="quicksortalgo">
+      <option name="closed" value="true" />
+      <created>1761652105650</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1761652105650</updated>
+    </task>
+    <task id="LOCAL-00059" summary="quicksort2">
+      <option name="closed" value="true" />
+      <created>1761652564107</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1761652564107</updated>
+    </task>
+    <task id="LOCAL-00060" summary="quicksortorktjsmaller">
+      <option name="closed" value="true" />
+      <created>1761656726121</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1761656726121</updated>
+    </task>
+    <task id="LOCAL-00061" summary="arraangeelement">
+      <option name="closed" value="true" />
+      <created>1761684852027</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1761684852027</updated>
+    </task>
+    <task id="LOCAL-00062" summary="arraangeelement">
+      <option name="closed" value="true" />
+      <created>1761684976324</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1761684976324</updated>
+    </task>
+    <task id="LOCAL-00063" summary="mergesortdecendingorder">
+      <option name="closed" value="true" />
+      <created>1761762243835</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1761762243835</updated>
+    </task>
+    <task id="LOCAL-00064" summary="sortlinear">
+      <option name="closed" value="true" />
+      <created>1761802382680</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1761802382680</updated>
+    </task>
+    <task id="LOCAL-00065" summary="sortlinear">
+      <option name="closed" value="true" />
+      <created>1761932326268</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1761932326268</updated>
+    </task>
+    <task id="LOCAL-00066" summary="sortlinear">
+      <option name="closed" value="true" />
+      <created>1761933416688</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1761933416688</updated>
+    </task>
+    <task id="LOCAL-00067" summary="sortlinear">
+      <option name="closed" value="true" />
+      <created>1761935366849</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1761935366849</updated>
+    </task>
+    <task id="LOCAL-00068" summary="update">
+      <option name="closed" value="true" />
+      <created>1761940513727</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1761940513727</updated>
+    </task>
+    <task id="LOCAL-00069" summary="duplicatelement">
+      <option name="closed" value="true" />
+      <created>1761941419407</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1761941419407</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -337,24 +645,46 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MAximumElementRightPlaceSelectionSort" />
-    <MESSAGE value="majorityElement" />
-    <MESSAGE value="updated" />
-    <MESSAGE value="swapCountWithBubbleSort" />
-    <MESSAGE value="transform" />
-    <MESSAGE value="binarySeaach" />
-    <MESSAGE value="bubleSortDecereasingOrder" />
-    <MESSAGE value="CheckSortedArray" />
-    <MESSAGE value="lowerBond" />
-    <MESSAGE value="upperBond" />
-    <MESSAGE value="findLowerBond" />
-    <MESSAGE value="findUpperBond" />
-    <MESSAGE value="findFirstAndLastElememnt" />
-    <MESSAGE value="firstOccurance" />
-    <MESSAGE value="sqrTihoutInbuildFunction" />
+    <MESSAGE value="increaseSequences" />
+    <MESSAGE value="increaseSequencesInString" />
+    <MESSAGE value="permutations" />
+    <MESSAGE value="printStringdPermutation" />
+    <MESSAGE value="howManyVowelsInString" />
+    <MESSAGE value="TowerOfHanoi" />
+    <MESSAGE value="sumBetweenAandB" />
+    <MESSAGE value="findWayStairs" />
+    <MESSAGE value="PowerOfTwoReturn" />
+    <MESSAGE value="reverseArray" />
+    <MESSAGE value="printIndexElement" />
+    <MESSAGE value="countAndSay" />
+    <MESSAGE value="SumTriangle" />
+    <MESSAGE value="Reversewithout0s" />
+    <MESSAGE value="mergeTwoSortedArray" />
+    <MESSAGE value="merge_sort" />
+    <MESSAGE value="inversionCount" />
+    <MESSAGE value="quicksortalgo" />
+    <MESSAGE value="quicksort2" />
+    <MESSAGE value="quicksortorktjsmaller" />
+    <MESSAGE value="arraangeelement" />
+    <MESSAGE value="mergesortdecendingorder" />
+    <MESSAGE value="sortlinear" />
     <MESSAGE value="update" />
-    <MESSAGE value="authentication" />
-    <MESSAGE value="updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+    <MESSAGE value="duplicatelement" />
+    <option name="LAST_COMMIT_MESSAGE" value="duplicatelement" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaProgrammingCW$mergesortdecendingorder.ic" NAME="mergesortdecendingorder Coverage Results" MODIFIED="1761761642531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Advance_sorting.*</FILTER>
+    </SUITE>
   </component>
 </project>
