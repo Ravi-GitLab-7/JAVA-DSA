@@ -8,7 +8,7 @@ public class duplicatelement {
         // Sum of given array
         int arrSum = 0;
         for (int x : arr) {
-            arrSum += x;
+            arrSum  += x;
         }
         int result = arrSum - totalSum;
         System.out.println("Duplicate number is: " + result);
