@@ -1,11 +1,12 @@
 package OOPS2;
 import com.sun.security.jgss.GSSUtil;
+class Student {  // this dataa types
+    String name ;
+    int roln;
+    double cgpa;
+}
 public class uerdefined {
-    public static class Student {  // this dataa types
-        String name ;
-        int roln;
-        double cgpa;
-    }
+
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.name = "Ravi Raj";
