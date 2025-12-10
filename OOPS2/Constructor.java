@@ -2,20 +2,21 @@ package OOPS2;
 
 public class Constructor {
     public static class Car{
-        int seat;
+        int price;
         String name;
         double length;
         Car(){    //default constructor
 
         }
 
-        Car(int x, String s,double d){    //paramatrized constructor
-            seat = x;
-            name = s;
-            length = d;
+        Car(int price, String name,double length){    //paramatrized constructor
+            this.price = price; //this keyword print actual values given in this  code
+            this.name = name;
+            this.length = length;
         }
         void print(){
-            System.out.println(seat+" "+name+" "+length);
+//            int price = 19;
+            System.out.println(price+" "+name+" "+length);
         }
     }
     public static void main(String[] args) {
