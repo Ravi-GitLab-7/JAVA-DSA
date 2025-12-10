@@ -5,8 +5,11 @@ public class Constructor {
         int seat;
         String name;
         double length;
+        Car(){    //default constructor
 
-        Car(int x, String s,double d){
+        }
+
+        Car(int x, String s,double d){    //paramatrized constructor
             seat = x;
             name = s;
             length = d;
