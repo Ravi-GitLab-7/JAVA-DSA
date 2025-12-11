@@ -18,9 +18,9 @@ public class nodeCreation {
   // print recurvesely
 
         public static void dispalyRecusively(Node head){
-            if(head == null) return;
-            System.out.println(head.val);
-            dispalyRecusively(head.next);
+            if(head == null) return;  //base case
+            System.out.println(head.val);  // print value
+            dispalyRecusively(head.next);  // call
     }
     public static void main(String[] args) {
         Node a = new Node(10);
