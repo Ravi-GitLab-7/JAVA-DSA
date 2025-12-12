@@ -1,9 +1,9 @@
 package Linked_List;
 
 class SLL{
-    Node head;
-    Node tail;
-    int size = 0;
+    private Node head;
+    private Node tail;
+    private int size = 0;
 
     // insert new value
     void inserAtEnd(int val){
@@ -14,6 +14,18 @@ class SLL{
         else {
             tail.next = temp;
             tail = temp;
+        }
+        size++;   // increase length
+    }
+
+    void inserAtHeead(int val){
+        Node temp = new Node(val);
+        if(head == null){
+            head = tail = temp;
+        }
+        else {
+            temp.next = head;
+            head = temp;
         }
         size++;   // increase length
     }
@@ -43,6 +55,10 @@ public class implementation {
         list.Size();
         list.display();
 
+        list.inserAtHeead(10);
+        list.inserAtHeead(20);
+        list.inserAtHeead(30);
+        list.display();
 
     }
 }
