@@ -1,9 +1,8 @@
 package Linked_List;
 class SLL {
     private Node head;
-    private Node tail;
+     Node tail;
     private int size = 0;
-
     // insert new value at end
     void inserAtEnd(int val){
         Node temp = new Node(val);
@@ -16,7 +15,6 @@ class SLL {
         }
         size++;   // increase length
     }
-
     // insert at head
     void inserAtHead(int val){
         Node temp = new Node(val);
@@ -29,6 +27,7 @@ class SLL {
         }
         size++;   // increase length
     }
+    //InsertElement
     void inseertElement(int idx,int val){
         if(idx == 0){
             inserAtHead(val);
@@ -62,7 +61,39 @@ class SLL {
         }
         return temp.val;
     }
-
+    // setter method
+    void set(int idx,int val){
+        if(idx == size)  tail.val=val;
+        if(idx >= size || idx < 0){
+            System.out.println("Invalid");
+        }
+        Node temp = head;
+        for (int i = 0; i <idx ; i++) {
+            temp = temp.next;
+        }
+        temp.val = val;
+    }
+    // delete head node
+    void deleteAtHead()throws Error{
+        if(head == null) throw new Error("List is Empty");
+        head = head.next;
+        size--;
+    }
+    //delete at index
+    void delete(int idx) throws Error {
+        if(idx == 0){
+            deleteAtHead();
+            return;
+        }
+        if(idx < 0 || idx >= size)  throw new Error("Invalid Index");
+        Node temp = head;
+        for(int i = 1; i <= idx - 1; i++){
+            temp = temp.next;
+        }
+        if(temp.next == tail)  tail = temp;
+        temp.next = temp.next.next;
+        size--;
+    }
     // display linked list
     void display(){
         Node temp = head;
@@ -72,7 +103,6 @@ class SLL {
         }
         System.out.println();
     }
-
     // display size of linked list
     void Size(){
         System.out.println("Length of Linked list is: " + size);
@@ -98,5 +128,15 @@ public class implementation {
         list.display();
 
         System.out.println(list.get(6));
+        list.set(2,100);
+        list.display();
+        list.Size();
+        list.deleteAtHead();
+        list.display();
+        list.Size();
+        list.delete(2);
+        list.display();
+        list.Size();
+        System.out.println(list.tail.val);
     }
 }
