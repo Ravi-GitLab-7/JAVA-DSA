@@ -21,7 +21,7 @@ public class nodeCreation {
             if(head == null) return;  //base case
             System.out.println(head.val);  // print value
             dispalyRecusively(head.next);  // call
-    }
+        }
     public static void main(String[] args) {
         Node a = new Node(10);
         Node b = new Node(20);
