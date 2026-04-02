@@ -42,7 +42,34 @@ class DLL{
         size++;
     }
 }
-
+//void insert(int idx, int val) {
+//
+//    if (idx == 0) {
+//        insertAtHead(val);
+//        return;
+//    }
+//
+//    if (idx == size) {
+//        insertAtTail(val);
+//        return;
+//    }
+//
+//    if (idx > size || idx < 0) {
+//        System.out.println("Invalid Index!!");
+//        return;
+//    }
+//
+//    dNode temp = new dNode(val);
+//    dNode x = head;
+//
+//    for (int i = 1; i <= idx - 1; i++) {
+//        x = x.next;
+//    }
+//    dNode  y  = x.next;
+//    x.next = temp; temp.prev = x;
+//    y.prev = temp; temp.next =y
+//    size++;
+//}
 public class doublyLinkedListImplementation {
 //    public static void print(dNode head){
 //        dNode temp = head;
@@ -116,5 +143,6 @@ public class doublyLinkedListImplementation {
         System.out.println(list.size);
         list.inserAtHead(60);
         list.display();
+//        list.insert(0,10);
     }
 }
