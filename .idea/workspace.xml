@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="duplicatelement">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_23_2025_7_46_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_23_2025_7_46_PM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="Doubly linkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
     </list>
@@ -19,11 +16,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/src" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -31,17 +42,20 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/07ravi-lab/JAVA.git",
-    "accountId": "ee3ce6a4-3931-400b-9818-8a4e5e270b20"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/07ravi-lab/JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;ee3ce6a4-3931-400b-9818-8a4e5e270b20&quot;
   }
-}]]></component>
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="329bmrT5Qycnntzte8IdFSD2fDQ" />
@@ -53,98 +67,170 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbsoluteValueFloat.executor": "Run",
-    "Application.AdvancedConditionals.executor": "Run",
-    "Application.Arithmaticoperation.executor": "Run",
-    "Application.ArmstrongNumber.executor": "Run",
-    "Application.AuthenticationSystem.executor": "Run",
-    "Application.CheckSortedArray.executor": "Run",
-    "Application.Check_pallindrone.executor": "Run",
-    "Application.Duplicate_Sum.executor": "Run",
-    "Application.MAximumElementRightPlaceSelectionSort.executor": "Run",
-    "Application.MazePath.executor": "Run",
-    "Application.MergeTwoSotedArrays.executor": "Run",
-    "Application.NthStair.executor": "Run",
-    "Application.NthStair2.executor": "Run",
-    "Application.PowerOfTwoReturn.executor": "Run",
-    "Application.Reversewithout0s.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.SumTriangle.executor": "Run",
-    "Application.TowerOfHanoi.executor": "Run",
-    "Application.arraangeelement.executor": "Run",
-    "Application.arrayTraversal.executor": "Run",
-    "Application.authentication.executor": "Run",
-    "Application.bs.executor": "Run",
-    "Application.bubbleSort2.executor": "Run",
-    "Application.bubbleSort2Optimize.executor": "Run",
-    "Application.bubleSortDecereasingOrder.executor": "Run",
-    "Application.checkIfArrayShortOrNot.executor": "Run",
-    "Application.compression.executor": "Run",
-    "Application.countAndSay.executor": "Run",
-    "Application.cyclesort.executor": "Run",
-    "Application.duplicatelement.executor": "Run",
-    "Application.factorial.executor": "Run",
-    "Application.fibonacciNo.executor": "Run",
-    "Application.findFirstAndLastElememnt.executor": "Run",
-    "Application.findLowerBond.executor": "Run",
-    "Application.findUpperBond.executor": "Run",
-    "Application.findWayStairs.executor": "Run",
-    "Application.firstOccurance.executor": "Run",
-    "Application.functionCalls.executor": "Run",
-    "Application.generateparentheses.executor": "Run",
-    "Application.howManyVowelsInString.executor": "Run",
-    "Application.increaseSequences.executor": "Run",
-    "Application.increaseSequencesInString.executor": "Run",
-    "Application.insertion.executor": "Run",
-    "Application.inversionCount.executor": "Run",
-    "Application.knowNoOfSwaos.executor": "Run",
-    "Application.lowerBond.executor": "Run",
-    "Application.majorityElement.executor": "Run",
-    "Application.mergeTwoSortedArray.executor": "Run",
-    "Application.merge_sort.executor": "Run",
-    "Application.mergesortdecendingorder.executor": "Run",
-    "Application.moveZeroes.executor": "Run",
-    "Application.permutations.executor": "Run",
-    "Application.powerLinear.executor": "Run",
-    "Application.powerLiner2.executor": "Run",
-    "Application.preInPost.executor": "Run",
-    "Application.print1ToN.executor": "Run",
-    "Application.printIndexElement.executor": "Run",
-    "Application.printNto1.executor": "Run",
-    "Application.printStringdPermutationWithoutConsu1s.executor": "Run",
-    "Application.printSubsetInArray.executor": "Run",
-    "Application.printSubsets.executor": "Run",
-    "Application.quicksort2.executor": "Run",
-    "Application.quicksortalgo.executor": "Run",
-    "Application.quicksortorktjsmaller.executor": "Run",
-    "Application.ravi.executor": "Run",
-    "Application.reverseArray.executor": "Run",
-    "Application.smallerDivisorGivenThreshold.executor": "Run",
-    "Application.sortlinear.executor": "Run",
-    "Application.sqrTihoutInbuildFunction.executor": "Run",
-    "Application.stringTraversal.executor": "Run",
-    "Application.sumBetweenAandB.executor": "Run",
-    "Application.sumFrom1toN.executor": "Run",
-    "Application.sumReurn.executor": "Run",
-    "Application.transform.executor": "Run",
-    "Application.upperBond.executor": "Run",
-    "Application.zigZag.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "settings.editor.splitter.proportion": "0.28",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbsoluteValueFloat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdvancedConditionals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arithmaticoperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AuthenticationSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check_pallindrone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplicate_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindNthNodeFromEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MAximumElementRightPlaceSelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Marks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MazePath.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoSotedArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NthStair.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NthStair2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfTwoReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintRecursively.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reversewithout0s.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPrinting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TowerOfHanoi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arraangeelement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.authentication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bubbleSort2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bubbleSort2Optimize.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bubleSortDecereasingOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.checkIfArrayShortOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.classPassingToMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.complexNumberClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.compression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.constructor2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countAndSay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cyclesort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.doublyLinkedListImplementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.duplicatelement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonacciNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.finalAndStatic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findFirstAndLastElememnt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findLowerBond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findUpperBond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findWayStairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.firstOccurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fractionClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.functionCalls.executor&quot;: &quot;Run&quot;,
+    &quot;Application.generateparentheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.howManyVowelsInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.implementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.increaseSequences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.increaseSequencesInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.insertion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inversionCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.knowNoOfSwaos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lowerBond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.majorityElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.merge_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mergesortdecendingorder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.missingnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.moveZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nodeCreation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ownArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Application.powerLinear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.powerLiner2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.preInPost.executor&quot;: &quot;Run&quot;,
+    &quot;Application.print1ToN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printIndexElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printNto1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printStringdPermutationWithoutConsu1s.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printSubsetInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printSubsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.privateKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.quicksort2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.quicksortalgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.quicksortorktjsmaller.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ravi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.returnLeftMiddle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.shallowCopyOfNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.smallerDivisorGivenThreshold.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortlinear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sqrTihoutInbuildFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stringTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumBetweenAandB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumFrom1toN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumReurn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.transform.executor&quot;: &quot;Run&quot;,
+    &quot;Application.uerdefined.executor&quot;: &quot;Run&quot;,
+    &quot;Application.upperBond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.userdefined.executor&quot;: &quot;Run&quot;,
+    &quot;Application.zigZag.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.duplicatelement">
-    <configuration name="cyclesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_sorting.cyclesort" />
+}</component>
+  <component name="RunManager" selected="Application.doublyLinkedListImplementation">
+    <configuration name="FindNthNodeFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linked_List.FindNthNodeFromEnd" />
+      <module name="JavaProgrammingCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linked_List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDimentionalArray.SpiralPrinting" />
+      <module name="JavaProgrammingCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoDimentionalArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doublyLinkedListImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linked_List.doublyLinkedListImplementation" />
+      <module name="JavaProgrammingCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linked_List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_sorting.merge_sort" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
@@ -156,51 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="duplicatelement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_sorting.cyclesort.duplicatelement" />
+    <configuration name="returnLeftMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linked_List.returnLeftMiddle" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_sorting.cyclesort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mergesortdecendingorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_sorting.mergesortdecendingorder" />
-      <module name="JavaProgrammingCW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Advance_sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="quicksortorktjsmaller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_sorting.quicksortorktjsmaller" />
-      <module name="JavaProgrammingCW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Advance_sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sortlinear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_sorting.sortlinear" />
-      <module name="JavaProgrammingCW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Advance_sorting.*" />
+          <option name="PATTERN" value="Linked_List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,19 +257,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.duplicatelement" />
-        <item itemvalue="Application.cyclesort" />
-        <item itemvalue="Application.sortlinear" />
-        <item itemvalue="Application.mergesortdecendingorder" />
-        <item itemvalue="Application.quicksortorktjsmaller" />
+        <item itemvalue="Application.doublyLinkedListImplementation" />
+        <item itemvalue="Application.merge_sort" />
+        <item itemvalue="Application.SpiralPrinting" />
+        <item itemvalue="Application.FindNthNodeFromEnd" />
+        <item itemvalue="Application.returnLeftMiddle" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
@@ -233,207 +280,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756835900441</updated>
-      <workItem from="1763145923320" duration="270000" />
-    </task>
-    <task id="LOCAL-00021" summary="Recursion">
-      <option name="closed" value="true" />
-      <created>1760803852932</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1760803852932</updated>
-    </task>
-    <task id="LOCAL-00022" summary="factorial">
-      <option name="closed" value="true" />
-      <created>1760807727030</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1760807727030</updated>
-    </task>
-    <task id="LOCAL-00023" summary="print1ToN">
-      <option name="closed" value="true" />
-      <created>1760868270743</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1760868270743</updated>
-    </task>
-    <task id="LOCAL-00024" summary="update">
-      <option name="closed" value="true" />
-      <created>1760874053178</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1760874053178</updated>
-    </task>
-    <task id="LOCAL-00025" summary="powerLiner2">
-      <option name="closed" value="true" />
-      <created>1760940568197</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1760940568197</updated>
-    </task>
-    <task id="LOCAL-00026" summary="NthStair">
-      <option name="closed" value="true" />
-      <created>1760951829173</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1760951829173</updated>
-    </task>
-    <task id="LOCAL-00027" summary="NthStair2">
-      <option name="closed" value="true" />
-      <created>1760957423180</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1760957423180</updated>
-    </task>
-    <task id="LOCAL-00028" summary="MazePath">
-      <option name="closed" value="true" />
-      <created>1760958209528</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1760958209528</updated>
-    </task>
-    <task id="LOCAL-00029" summary="MazePath update">
-      <option name="closed" value="true" />
-      <created>1760959602108</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1760959602108</updated>
-    </task>
-    <task id="LOCAL-00030" summary="zigZag">
-      <option name="closed" value="true" />
-      <created>1761069568987</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1761069568987</updated>
-    </task>
-    <task id="LOCAL-00031" summary="public class arrayTraversal {">
-      <option name="closed" value="true" />
-      <created>1761071815109</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1761071815109</updated>
-    </task>
-    <task id="LOCAL-00032" summary="stringTraversal">
-      <option name="closed" value="true" />
-      <created>1761072018871</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1761072018871</updated>
-    </task>
-    <task id="LOCAL-00033" summary="skipCharcter">
-      <option name="closed" value="true" />
-      <created>1761120901771</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1761120901771</updated>
-    </task>
-    <task id="LOCAL-00034" summary="printSubsetsInString">
-      <option name="closed" value="true" />
-      <created>1761123086466</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1761123086466</updated>
-    </task>
-    <task id="LOCAL-00035" summary="printSubsetInArray">
-      <option name="closed" value="true" />
-      <created>1761125516156</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1761125516156</updated>
-    </task>
-    <task id="LOCAL-00036" summary="increaseSequences">
-      <option name="closed" value="true" />
-      <created>1761141940982</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1761141940982</updated>
-    </task>
-    <task id="LOCAL-00037" summary="increaseSequencesInString">
-      <option name="closed" value="true" />
-      <created>1761142533169</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1761142533169</updated>
-    </task>
-    <task id="LOCAL-00038" summary="increaseSequencesInString">
-      <option name="closed" value="true" />
-      <created>1761144711239</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1761144711239</updated>
-    </task>
-    <task id="LOCAL-00039" summary="permutations">
-      <option name="closed" value="true" />
-      <created>1761145160834</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1761145160834</updated>
-    </task>
-    <task id="LOCAL-00040" summary="printStringdPermutation">
-      <option name="closed" value="true" />
-      <created>1761204891774</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1761204891774</updated>
-    </task>
-    <task id="LOCAL-00041" summary="howManyVowelsInString">
-      <option name="closed" value="true" />
-      <created>1761248435637</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1761248435637</updated>
-    </task>
-    <task id="LOCAL-00042" summary="TowerOfHanoi">
-      <option name="closed" value="true" />
-      <created>1761304044139</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1761304044139</updated>
-    </task>
-    <task id="LOCAL-00043" summary="update">
-      <option name="closed" value="true" />
-      <created>1761448437331</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1761448437331</updated>
-    </task>
-    <task id="LOCAL-00044" summary="sumBetweenAandB">
-      <option name="closed" value="true" />
-      <created>1761451584581</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1761451584581</updated>
-    </task>
-    <task id="LOCAL-00045" summary="findWayStairs">
-      <option name="closed" value="true" />
-      <created>1761452847998</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1761452847998</updated>
+      <workItem from="1763145923320" duration="662000" />
+      <workItem from="1763146643473" duration="64000" />
+      <workItem from="1763146730750" duration="140000" />
+      <workItem from="1763166760963" duration="511000" />
+      <workItem from="1763183561045" duration="154000" />
+      <workItem from="1763183741552" duration="1117000" />
+      <workItem from="1763640995165" duration="979000" />
+      <workItem from="1763641999994" duration="422000" />
+      <workItem from="1763642449852" duration="74000" />
+      <workItem from="1763828072685" duration="270000" />
+      <workItem from="1763923832487" duration="4869000" />
+      <workItem from="1764670314111" duration="3000" />
+      <workItem from="1765184641607" duration="3000" />
+      <workItem from="1765184672771" duration="472000" />
+      <workItem from="1765185449552" duration="13756000" />
+      <workItem from="1765266853308" duration="4000" />
+      <workItem from="1765356543756" duration="2860000" />
+      <workItem from="1765364990696" duration="12000" />
+      <workItem from="1765365088066" duration="5740000" />
+      <workItem from="1765382334615" duration="15175000" />
+      <workItem from="1765445585968" duration="9312000" />
+      <workItem from="1765458587786" duration="10630000" />
+      <workItem from="1765527335819" duration="19853000" />
+      <workItem from="1765602670749" duration="7045000" />
+      <workItem from="1765820051657" duration="10059000" />
+      <workItem from="1765908565634" duration="1142000" />
+      <workItem from="1765972036197" duration="634000" />
+      <workItem from="1765991352332" duration="3661000" />
+      <workItem from="1766169925280" duration="1436000" />
+      <workItem from="1766172349870" duration="390000" />
+      <workItem from="1766172771237" duration="2000" />
+      <workItem from="1766172807377" duration="3283000" />
+      <workItem from="1767872408689" duration="2501000" />
+      <workItem from="1768176174141" duration="922000" />
+      <workItem from="1769869811263" duration="613000" />
+      <workItem from="1772132101946" duration="4263000" />
+      <workItem from="1772183750880" duration="2167000" />
+      <workItem from="1772358197435" duration="1660000" />
+      <workItem from="1772525038042" duration="7000" />
+      <workItem from="1772525067813" duration="634000" />
+      <workItem from="1773056576204" duration="2202000" />
+      <workItem from="1773313676770" duration="2730000" />
+      <workItem from="1773487414436" duration="2077000" />
+      <workItem from="1773569184879" duration="3123000" />
+      <workItem from="1773629191557" duration="2046000" />
+      <workItem from="1774442167180" duration="489000" />
+      <workItem from="1774442967884" duration="146000" />
+      <workItem from="1774443132167" duration="1124000" />
+      <workItem from="1774444293487" duration="373000" />
+      <workItem from="1774444687108" duration="86000" />
+      <workItem from="1774444827694" duration="140000" />
+      <workItem from="1774444999062" duration="787000" />
+      <workItem from="1774445827986" duration="1384000" />
+      <workItem from="1774457811973" duration="2158000" />
+      <workItem from="1774847226261" duration="2044000" />
+      <workItem from="1774866129703" duration="443000" />
+      <workItem from="1775042873531" duration="6352000" />
+      <workItem from="1775109323696" duration="1706000" />
+      <workItem from="1775147502504" duration="3899000" />
     </task>
     <task id="LOCAL-00046" summary="PowerOfTwoReturn">
       <option name="closed" value="true" />
@@ -627,7 +532,207 @@
       <option name="project" value="LOCAL" />
       <updated>1761941419407</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="duplicatelement">
+      <option name="closed" value="true" />
+      <created>1763146370683</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1763146370683</updated>
+    </task>
+    <task id="LOCAL-00071" summary="duplicatelement">
+      <option name="closed" value="true" />
+      <created>1763146451277</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1763146451279</updated>
+    </task>
+    <task id="LOCAL-00072" summary="oops">
+      <option name="closed" value="true" />
+      <created>1763930469222</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1763930469222</updated>
+    </task>
+    <task id="LOCAL-00073" summary="oops">
+      <option name="closed" value="true" />
+      <created>1765218591909</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1765218591909</updated>
+    </task>
+    <task id="LOCAL-00074" summary="oops">
+      <option name="closed" value="true" />
+      <created>1765218609712</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1765218609712</updated>
+    </task>
+    <task id="LOCAL-00075" summary="oops">
+      <option name="closed" value="true" />
+      <created>1765221370342</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1765221370342</updated>
+    </task>
+    <task id="LOCAL-00076" summary="oops">
+      <option name="closed" value="true" />
+      <created>1765357654047</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1765357654047</updated>
+    </task>
+    <task id="LOCAL-00077" summary="oops">
+      <option name="closed" value="true" />
+      <created>1765370775967</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1765370775967</updated>
+    </task>
+    <task id="LOCAL-00078" summary="linked list">
+      <option name="closed" value="true" />
+      <created>1765370792942</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1765370792942</updated>
+    </task>
+    <task id="LOCAL-00079" summary="oops">
+      <option name="closed" value="true" />
+      <created>1765391969655</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1765391969655</updated>
+    </task>
+    <task id="LOCAL-00080" summary="oops">
+      <option name="closed" value="true" />
+      <created>1765400474949</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1765400474949</updated>
+    </task>
+    <task id="LOCAL-00081" summary="oops">
+      <option name="closed" value="true" />
+      <created>1765449756394</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1765449756394</updated>
+    </task>
+    <task id="LOCAL-00082" summary="ownArrayList">
+      <option name="closed" value="true" />
+      <created>1765458228720</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1765458228720</updated>
+    </task>
+    <task id="LOCAL-00083" summary="dispalyRecusively">
+      <option name="closed" value="true" />
+      <created>1765483812385</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1765483812385</updated>
+    </task>
+    <task id="LOCAL-00084" summary="dispalyRecusively">
+      <option name="closed" value="true" />
+      <created>1765484588265</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1765484588265</updated>
+    </task>
+    <task id="LOCAL-00085" summary="insertAtEnd">
+      <option name="closed" value="true" />
+      <created>1765533077192</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1765533077192</updated>
+    </task>
+    <task id="LOCAL-00086" summary="inserAtHeead">
+      <option name="closed" value="true" />
+      <created>1765535114997</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1765535114997</updated>
+    </task>
+    <task id="LOCAL-00087" summary="inserAtHeead">
+      <option name="closed" value="true" />
+      <created>1765548417302</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1765548417302</updated>
+    </task>
+    <task id="LOCAL-00088" summary="updated">
+      <option name="closed" value="true" />
+      <created>1765609102136</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1765609102136</updated>
+    </task>
+    <task id="LOCAL-00089" summary="updated">
+      <option name="closed" value="true" />
+      <created>1765828469412</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1765828469412</updated>
+    </task>
+    <task id="LOCAL-00090" summary="updated">
+      <option name="closed" value="true" />
+      <created>1772184143156</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1772184143157</updated>
+    </task>
+    <task id="LOCAL-00091" summary="updated">
+      <option name="closed" value="true" />
+      <created>1773339303206</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1773339303207</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Doubly linkedList">
+      <option name="closed" value="true" />
+      <created>1775067073361</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1775067073362</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Doubly linkedList">
+      <option name="closed" value="true" />
+      <created>1775150619190</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1775150619191</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Doubly linkedList">
+      <option name="closed" value="true" />
+      <created>1775151993016</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1775151993016</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,14 +750,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="increaseSequences" />
-    <MESSAGE value="increaseSequencesInString" />
-    <MESSAGE value="permutations" />
-    <MESSAGE value="printStringdPermutation" />
-    <MESSAGE value="howManyVowelsInString" />
-    <MESSAGE value="TowerOfHanoi" />
-    <MESSAGE value="sumBetweenAandB" />
-    <MESSAGE value="findWayStairs" />
     <MESSAGE value="PowerOfTwoReturn" />
     <MESSAGE value="reverseArray" />
     <MESSAGE value="printIndexElement" />
@@ -670,7 +767,15 @@
     <MESSAGE value="sortlinear" />
     <MESSAGE value="update" />
     <MESSAGE value="duplicatelement" />
-    <option name="LAST_COMMIT_MESSAGE" value="duplicatelement" />
+    <MESSAGE value="linked list" />
+    <MESSAGE value="oops" />
+    <MESSAGE value="ownArrayList" />
+    <MESSAGE value="dispalyRecusively" />
+    <MESSAGE value="insertAtEnd" />
+    <MESSAGE value="inserAtHeead" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="Doubly linkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doubly linkedList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -679,8 +784,107 @@
           <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>97</line>
+          <properties class="Linked_List.SLL" method="display">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>106</line>
+          <properties class="Linked_List.SLL" method="Size">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>30</line>
+          <properties class="Linked_List.SLL" method="inseertElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>18</line>
+          <properties class="Linked_List.SLL" method="inserAtHead">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>6</line>
+          <properties class="Linked_List.SLL" method="inserAtEnd">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>76</line>
+          <properties class="Linked_List.SLL" method="deleteAtHead">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>82</line>
+          <properties class="Linked_List.SLL" method="delete">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>51</line>
+          <properties class="Linked_List.SLL" method="get">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>64</line>
+          <properties class="Linked_List.SLL" method="set">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>112</line>
+          <properties class="Linked_List.implementation" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaProgrammingCW$mergesortdecendingorder.ic" NAME="mergesortdecendingorder Coverage Results" MODIFIED="1761761642531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
