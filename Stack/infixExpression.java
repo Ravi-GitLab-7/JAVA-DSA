@@ -6,7 +6,7 @@ public class infixExpression {
         Stack<Integer> val = new Stack<>(); // stack for values (operands)
         Stack<Character> op = new Stack<>(); // stack for operators
 
-        String str = "9-5+3*4/6"; // input expression
+        String str = "9-(5+3)*4/6"; // input expression
 
         // Traverse the expression
         for (int i = 0; i < str.length(); i++) {
@@ -20,8 +20,20 @@ public class infixExpression {
 
             }
             // If operator stack is empty
-            else if (op.size() == 0) {
+            else if (op.size() == 0 || ch =='('|| op.peek()=='(') {
                 op.push(ch);
+            }
+            else if(ch==')'){
+                while(op.peek() != '('){
+                    int v2 = val.pop();
+                    int v1 = val.pop();
+                    if(op.peek()=='-') val.push(v1-v2);
+                    if(op.peek()=='+') val.push(v1+v2);
+                    if(op.peek()=='*') val.push(v1*v2);
+                    if(op.peek()=='/') val.push(v1/v2);
+                    op.pop();
+                }
+                op.pop();
             }
             else {
 
