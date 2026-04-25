@@ -10,8 +10,7 @@ public class circularQueueArray {
         public void displau() {
             display();
         }
-
-        // FIXED
+        
         public void add(int val){
             if(size == arr.length){
                 System.out.println("Array is Full");
@@ -31,7 +30,7 @@ public class circularQueueArray {
             size++;
         }
 
-        // FIXED
+
         public int remove(){
             if(size == 0){
                 System.out.println("Que is empty");
