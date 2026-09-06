@@ -4,20 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="Doubly linkedList">
+    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/src/trees/levelsOfTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/maxNodeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/productNonZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/productOfTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/sizeOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/traversals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/implementation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="687" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -52,6 +63,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000001222031" />
+      <entry key="MS500" value="1.0104091784397455" />
+      <entry key="S2" value="1.3242552284754665" />
+      <entry key="S5" value="1.8178518175608525" />
+      <entry key="S10" value="2.5310260584466877" />
+      <entry key="S30" value="4.622347462755656" />
+      <entry key="S60" value="6.290595029785433" />
+      <entry key="M2" value="7.736980441394518" />
+      <entry key="M5" value="8.964091588436256" />
+      <entry key="M10" value="9.46419794632164" />
+      <entry key="M15" value="9.747003887967592" />
+      <entry key="M30" value="11.575434359009899" />
+      <entry key="H1" value="16.803321882801765" />
+      <entry key="H2" value="23.599082735559584" />
+      <entry key="H4" value="29.171280140385264" />
+      <entry key="D1" value="35.503509201445944" />
+      <entry key="W1" value="36.78098340627692" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.492433149294349E-306" />
+      <entry key="S5" value="7.260936677232904E-123" />
+      <entry key="S10" value="8.521113000795672E-62" />
+      <entry key="S30" value="4.4004670648808774E-21" />
+      <entry key="S60" value="6.633601634768913E-11" />
+      <entry key="M2" value="8.144692526290935E-6" />
+      <entry key="M5" value="0.009212325971972168" />
+      <entry key="M10" value="0.09754215427827911" />
+      <entry key="M15" value="0.23407532170636974" />
+      <entry key="M30" value="0.8405999736081419" />
+      <entry key="H1" value="2.191822661406735" />
+      <entry key="H2" value="3.8376021197599575" />
+      <entry key="H4" value="5.160168083995444" />
+      <entry key="D1" value="6.649441878786638" />
+      <entry key="W1" value="6.948721781916031" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="7.108969643972906E-5" />
+      <entry key="MS500" value="0.14836561327420844" />
+      <entry key="S2" value="0.758834772123808" />
+      <entry key="S5" value="1.4258854395726708" />
+      <entry key="S10" value="2.2338627391782166" />
+      <entry key="S30" value="4.434247442295889" />
+      <entry key="S60" value="6.167081148839804" />
+      <entry key="M2" value="7.664473270827293" />
+      <entry key="M5" value="8.941059907539564" />
+      <entry key="M10" value="9.544850513051259" />
+      <entry key="M15" value="9.969392620110305" />
+      <entry key="M30" value="12.408788814639786" />
+      <entry key="H1" value="18.989587382815266" />
+      <entry key="H2" value="27.432661308040156" />
+      <entry key="H4" value="34.328927569511954" />
+      <entry key="D1" value="42.15243471671563" />
+      <entry key="W1" value="43.729628649429934" />
+    </decayedShown>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -66,136 +136,178 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AbsoluteValueFloat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AdvancedConditionals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmaticoperation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AuthenticationSystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_pallindrone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Duplicate_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindNthNodeFromEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MAximumElementRightPlaceSelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Marks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MazePath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoSotedArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NthStair.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NthStair2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerOfTwoReturn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintRecursively.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reversewithout0s.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPrinting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TowerOfHanoi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arraangeelement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrayTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.authentication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bubbleSort2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bubbleSort2Optimize.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bubleSortDecereasingOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.checkIfArrayShortOrNot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.classPassingToMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.complexNumberClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.compression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.constructor2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.countAndSay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cyclesort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.doublyLinkedListImplementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.duplicatelement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fibonacciNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.finalAndStatic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findFirstAndLastElememnt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findLowerBond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findUpperBond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findWayStairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.firstOccurance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fractionClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functionCalls.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generateparentheses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.howManyVowelsInString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.implementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.increaseSequences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.increaseSequencesInString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.insertion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.inversionCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.knowNoOfSwaos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lowerBond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.majorityElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.merge_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mergesortdecendingorder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.missingnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.moveZeroes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nodeCreation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ownArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerLinear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerLiner2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.preInPost.executor&quot;: &quot;Run&quot;,
-    &quot;Application.print1ToN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printIndexElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printNto1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printStringdPermutationWithoutConsu1s.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printSubsetInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printSubsets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.privateKeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quicksort2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quicksortalgo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quicksortorktjsmaller.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ravi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.returnLeftMiddle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.shallowCopyOfNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.smallerDivisorGivenThreshold.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sortlinear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sqrTihoutInbuildFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumBetweenAandB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumFrom1toN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumReurn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.transform.executor&quot;: &quot;Run&quot;,
-    &quot;Application.uerdefined.executor&quot;: &quot;Run&quot;,
-    &quot;Application.upperBond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.userdefined.executor&quot;: &quot;Run&quot;,
-    &quot;Application.zigZag.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbsoluteValueFloat.executor": "Run",
+    "Application.AdvancedConditionals.executor": "Run",
+    "Application.Arithmaticoperation.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.AuthenticationSystem.executor": "Run",
+    "Application.CheckSortedArray.executor": "Run",
+    "Application.Check_pallindrone.executor": "Run",
+    "Application.Constructor.executor": "Run",
+    "Application.Duplicate_Sum.executor": "Run",
+    "Application.FindNthNodeFromEnd.executor": "Run",
+    "Application.MAximumElementRightPlaceSelectionSort.executor": "Run",
+    "Application.Marks.executor": "Run",
+    "Application.MazePath.executor": "Run",
+    "Application.MergeTwoSotedArrays.executor": "Run",
+    "Application.NthStair.executor": "Run",
+    "Application.NthStair2.executor": "Run",
+    "Application.PowerOfTwoReturn.executor": "Run",
+    "Application.PrintRecursively.executor": "Run",
+    "Application.Reversewithout0s.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SpiralPrinting.executor": "Run",
+    "Application.SumTriangle.executor": "Run",
+    "Application.TowerOfHanoi.executor": "Run",
+    "Application.arraangeelement.executor": "Run",
+    "Application.arrayImplementation.executor": "Run",
+    "Application.arrayTraversal.executor": "Run",
+    "Application.atAnyIndex.executor": "Run",
+    "Application.authentication.executor": "Run",
+    "Application.bs.executor": "Run",
+    "Application.bubbleSort2.executor": "Run",
+    "Application.bubbleSort2Optimize.executor": "Run",
+    "Application.bubleSortDecereasingOrder.executor": "Run",
+    "Application.checkIfArrayShortOrNot.executor": "Run",
+    "Application.circularDequeArray.executor": "Run",
+    "Application.circularQueueArray (1).executor": "Run",
+    "Application.circularQueueArray (2).executor": "Run",
+    "Application.circularQueueArray.executor": "Run",
+    "Application.classPassingToMethod.executor": "Run",
+    "Application.complexNumberClass.executor": "Run",
+    "Application.compression.executor": "Run",
+    "Application.constructor2.executor": "Run",
+    "Application.copyStack.executor": "Run",
+    "Application.countAndSay.executor": "Run",
+    "Application.cyclesort.executor": "Run",
+    "Application.dc.executor": "Run",
+    "Application.dequeImplemetationUsingLL.executor": "Run",
+    "Application.doublyCircularLL.executor": "Run",
+    "Application.doublyLinkedListImplementation.executor": "Run",
+    "Application.duplicatelement.executor": "Run",
+    "Application.evaluationPostfix.executor": "Run",
+    "Application.evalutationPrefix.executor": "Run",
+    "Application.evenPrint.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.fibonacciNo.executor": "Run",
+    "Application.finalAndStatic.executor": "Run",
+    "Application.findFirstAndLastElememnt.executor": "Run",
+    "Application.findLowerBond.executor": "Run",
+    "Application.findUpperBond.executor": "Run",
+    "Application.findWayStairs.executor": "Run",
+    "Application.firstOccurance.executor": "Run",
+    "Application.fractionClass.executor": "Run",
+    "Application.functionCalls.executor": "Run",
+    "Application.generateparentheses.executor": "Run",
+    "Application.howManyVowelsInString.executor": "Run",
+    "Application.implementation.executor": "Run",
+    "Application.increaseSequences.executor": "Run",
+    "Application.increaseSequencesInString.executor": "Run",
+    "Application.infixExpression.executor": "Run",
+    "Application.infixToPostfix.executor": "Run",
+    "Application.infixToPrefix.executor": "Run",
+    "Application.infxTopostFix.executor": "Run",
+    "Application.insertion.executor": "Run",
+    "Application.intialization.executor": "Run",
+    "Application.inversionCount.executor": "Run",
+    "Application.isertAtIndex.executor": "Run",
+    "Application.knowNoOfSwaos.executor": "Run",
+    "Application.levelsOfTrees.executor": "Run",
+    "Application.linkedListImplementation.executor": "Run",
+    "Application.llImplementation.executor": "Run",
+    "Application.lowerBond.executor": "Run",
+    "Application.majorityElement.executor": "Run",
+    "Application.maxNodeTree.executor": "Run",
+    "Application.mergeTwoSortedArray.executor": "Run",
+    "Application.merge_sort.executor": "Run",
+    "Application.mergesortdecendingorder.executor": "Run",
+    "Application.missingnumber.executor": "Run",
+    "Application.moveZeroes.executor": "Run",
+    "Application.nodeCreation.executor": "Run",
+    "Application.operation.executor": "Run",
+    "Application.ownArrayList.executor": "Run",
+    "Application.permutations.executor": "Run",
+    "Application.polymorphism.executor": "Run",
+    "Application.postfixToPrefix.executor": "Run",
+    "Application.postfixToinfix.executor": "Run",
+    "Application.powerLinear.executor": "Run",
+    "Application.powerLiner2.executor": "Run",
+    "Application.preInPost.executor": "Run",
+    "Application.prefixToInfix.executor": "Run",
+    "Application.previousGreaterElement.executor": "Run",
+    "Application.print1ToN.executor": "Run",
+    "Application.printIndexElement.executor": "Run",
+    "Application.printNto1.executor": "Run",
+    "Application.printStringdPermutationWithoutConsu1s.executor": "Run",
+    "Application.printSubsetInArray.executor": "Run",
+    "Application.printSubsets.executor": "Run",
+    "Application.privateKeyword.executor": "Run",
+    "Application.productNonZeros.executor": "Run",
+    "Application.productOfTrees.executor": "Run",
+    "Application.quicksort2.executor": "Run",
+    "Application.quicksortalgo.executor": "Run",
+    "Application.quicksortorktjsmaller.executor": "Run",
+    "Application.ravi.executor": "Run",
+    "Application.removeEvenPlace.executor": "Run",
+    "Application.returnLeftMiddle.executor": "Run",
+    "Application.reverse.executor": "Run",
+    "Application.reverseArray.executor": "Run",
+    "Application.reverseKelement.executor": "Run",
+    "Application.reverseQueue.executor": "Run",
+    "Application.shallowCopyOfNode.executor": "Run",
+    "Application.sizeOfTree.executor": "Run",
+    "Application.smallerDivisorGivenThreshold.executor": "Run",
+    "Application.sortlinear.executor": "Run",
+    "Application.sqrTihoutInbuildFunction.executor": "Run",
+    "Application.stackSpanProblem.executor": "Run",
+    "Application.stringTraversal.executor": "Run",
+    "Application.sumBetweenAandB.executor": "Run",
+    "Application.sumFrom1toN.executor": "Run",
+    "Application.sumReurn.executor": "Run",
+    "Application.transform.executor": "Run",
+    "Application.traversals.executor": "Run",
+    "Application.uerdefined.executor": "Run",
+    "Application.upperBond.executor": "Run",
+    "Application.userdefined.executor": "Run",
+    "Application.withoutUsingExtraPrint.executor": "Run",
+    "Application.zigZag.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.DA.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "M:/JavaProgrammingCW",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.splitter.proportion": "0.28",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.doublyLinkedListImplementation">
-    <configuration name="FindNthNodeFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Linked_List.FindNthNodeFromEnd" />
+}]]></component>
+  <component name="RunManager" selected="Application.traversals">
+    <configuration name="levelsOfTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trees.levelsOfTrees" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Linked_List.*" />
+          <option name="PATTERN" value="trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoDimentionalArray.SpiralPrinting" />
+    <configuration name="maxNodeTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trees.maxNodeTree" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoDimentionalArray.*" />
+          <option name="PATTERN" value="trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="doublyLinkedListImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Linked_List.doublyLinkedListImplementation" />
+    <configuration name="sizeOfTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trees.sizeOfTree" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Linked_List.*" />
+          <option name="PATTERN" value="trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,25 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="merge_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_sorting.merge_sort" />
+    <configuration name="traversals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trees.traversals" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="returnLeftMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Linked_List.returnLeftMiddle" />
-      <module name="JavaProgrammingCW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Linked_List.*" />
+          <option name="PATTERN" value="trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,19 +356,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.doublyLinkedListImplementation" />
-        <item itemvalue="Application.merge_sort" />
-        <item itemvalue="Application.SpiralPrinting" />
-        <item itemvalue="Application.FindNthNodeFromEnd" />
-        <item itemvalue="Application.returnLeftMiddle" />
+        <item itemvalue="Application.traversals" />
+        <item itemvalue="Application.sizeOfTree" />
+        <item itemvalue="Application.levelsOfTrees" />
+        <item itemvalue="Application.maxNodeTree" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.27258.48" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.27258.48" />
       </set>
     </attachedChunks>
   </component>
@@ -339,150 +437,57 @@
       <workItem from="1775042873531" duration="6352000" />
       <workItem from="1775109323696" duration="1706000" />
       <workItem from="1775147502504" duration="3899000" />
-    </task>
-    <task id="LOCAL-00046" summary="PowerOfTwoReturn">
-      <option name="closed" value="true" />
-      <created>1761453971278</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1761453971278</updated>
-    </task>
-    <task id="LOCAL-00047" summary="reverseArray">
-      <option name="closed" value="true" />
-      <created>1761455608282</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1761455608282</updated>
-    </task>
-    <task id="LOCAL-00048" summary="printIndexElement">
-      <option name="closed" value="true" />
-      <created>1761456523861</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1761456523861</updated>
-    </task>
-    <task id="LOCAL-00049" summary="countAndSay">
-      <option name="closed" value="true" />
-      <created>1761457852038</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1761457852038</updated>
-    </task>
-    <task id="LOCAL-00050" summary="SumTriangle">
-      <option name="closed" value="true" />
-      <created>1761460480941</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1761460480941</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Reversewithout0s">
-      <option name="closed" value="true" />
-      <created>1761476662807</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1761476662807</updated>
-    </task>
-    <task id="LOCAL-00052" summary="mergeTwoSortedArray">
-      <option name="closed" value="true" />
-      <created>1761502873389</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1761502873389</updated>
-    </task>
-    <task id="LOCAL-00053" summary="merge_sort">
-      <option name="closed" value="true" />
-      <created>1761559939265</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1761559939265</updated>
-    </task>
-    <task id="LOCAL-00054" summary="merge_sort">
-      <option name="closed" value="true" />
-      <created>1761573058962</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1761573058962</updated>
-    </task>
-    <task id="LOCAL-00055" summary="inversionCount">
-      <option name="closed" value="true" />
-      <created>1761587135536</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1761587135536</updated>
-    </task>
-    <task id="LOCAL-00056" summary="update">
-      <option name="closed" value="true" />
-      <created>1761588649004</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1761588649004</updated>
-    </task>
-    <task id="LOCAL-00057" summary="quicksortalgo">
-      <option name="closed" value="true" />
-      <created>1761650731687</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1761650731687</updated>
-    </task>
-    <task id="LOCAL-00058" summary="quicksortalgo">
-      <option name="closed" value="true" />
-      <created>1761652105650</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1761652105650</updated>
-    </task>
-    <task id="LOCAL-00059" summary="quicksort2">
-      <option name="closed" value="true" />
-      <created>1761652564107</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1761652564107</updated>
-    </task>
-    <task id="LOCAL-00060" summary="quicksortorktjsmaller">
-      <option name="closed" value="true" />
-      <created>1761656726121</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1761656726121</updated>
-    </task>
-    <task id="LOCAL-00061" summary="arraangeelement">
-      <option name="closed" value="true" />
-      <created>1761684852027</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1761684852027</updated>
-    </task>
-    <task id="LOCAL-00062" summary="arraangeelement">
-      <option name="closed" value="true" />
-      <created>1761684976324</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1761684976324</updated>
-    </task>
-    <task id="LOCAL-00063" summary="mergesortdecendingorder">
-      <option name="closed" value="true" />
-      <created>1761762243835</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1761762243835</updated>
+      <workItem from="1775152041175" duration="1627000" />
+      <workItem from="1775205706741" duration="5115000" />
+      <workItem from="1775304232553" duration="4774000" />
+      <workItem from="1775473879529" duration="6668000" />
+      <workItem from="1775496578949" duration="54000" />
+      <workItem from="1775541828622" duration="2354000" />
+      <workItem from="1775555621970" duration="7554000" />
+      <workItem from="1775625406387" duration="8619000" />
+      <workItem from="1775738667124" duration="3817000" />
+      <workItem from="1776143244156" duration="4159000" />
+      <workItem from="1776425702211" duration="238000" />
+      <workItem from="1776425967512" duration="17080000" />
+      <workItem from="1776615220960" duration="1226000" />
+      <workItem from="1776786697550" duration="4888000" />
+      <workItem from="1776858345324" duration="4409000" />
+      <workItem from="1776875681938" duration="3244000" />
+      <workItem from="1776937503066" duration="6001000" />
+      <workItem from="1777005432047" duration="826000" />
+      <workItem from="1777007361440" duration="1243000" />
+      <workItem from="1777042211689" duration="2765000" />
+      <workItem from="1777114104675" duration="3000" />
+      <workItem from="1777114134708" duration="5407000" />
+      <workItem from="1777177446061" duration="1690000" />
+      <workItem from="1777181663452" duration="2399000" />
+      <workItem from="1777220098563" duration="1313000" />
+      <workItem from="1777523819476" duration="5050000" />
+      <workItem from="1777649813295" duration="2052000" />
+      <workItem from="1777738871748" duration="1040000" />
+      <workItem from="1777822743109" duration="4385000" />
+      <workItem from="1777867624811" duration="15936000" />
+      <workItem from="1778125217662" duration="4078000" />
+      <workItem from="1778166438296" duration="327000" />
+      <workItem from="1778979636494" duration="307000" />
+      <workItem from="1780550559452" duration="4902000" />
+      <workItem from="1780559833836" duration="6589000" />
+      <workItem from="1782994102208" duration="2027000" />
+      <workItem from="1786293913361" duration="646000" />
+      <workItem from="1786295070404" duration="1169000" />
+      <workItem from="1787130883131" duration="1642000" />
+      <workItem from="1787630887975" duration="377000" />
+      <workItem from="1787819615652" duration="869000" />
+      <workItem from="1787820764519" duration="3372000" />
+      <workItem from="1787913772240" duration="484000" />
+      <workItem from="1787979355132" duration="1475000" />
+      <workItem from="1788241219499" duration="270000" />
+      <workItem from="1788241527208" duration="271000" />
+      <workItem from="1788244418111" duration="50000" />
+      <workItem from="1788244884743" duration="24000" />
+      <workItem from="1788244936115" duration="877000" />
+      <workItem from="1788687836689" duration="747000" />
+      <workItem from="1788688649370" duration="877000" />
     </task>
     <task id="LOCAL-00064" summary="sortlinear">
       <option name="closed" value="true" />
@@ -732,7 +737,151 @@
       <option name="project" value="LOCAL" />
       <updated>1775151993016</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Doubly linkedList">
+      <option name="closed" value="true" />
+      <created>1775153338103</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1775153338103</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Doubly linkedList">
+      <option name="closed" value="true" />
+      <created>1775208481572</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1775208481573</updated>
+    </task>
+    <task id="LOCAL-00097" summary="&#10;stack impkimentation">
+      <option name="closed" value="true" />
+      <created>1775477331286</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1775477331287</updated>
+    </task>
+    <task id="LOCAL-00098" summary="new">
+      <option name="closed" value="true" />
+      <created>1775543134415</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1775543134416</updated>
+    </task>
+    <task id="LOCAL-00099" summary="new">
+      <option name="closed" value="true" />
+      <created>1775557303369</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1775557303370</updated>
+    </task>
+    <task id="LOCAL-00100" summary="new">
+      <option name="closed" value="true" />
+      <created>1775570531005</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1775570531005</updated>
+    </task>
+    <task id="LOCAL-00101" summary="new">
+      <option name="closed" value="true" />
+      <created>1775648290221</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1775648290222</updated>
+    </task>
+    <task id="LOCAL-00102" summary="new">
+      <option name="closed" value="true" />
+      <created>1775742988152</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1775742988153</updated>
+    </task>
+    <task id="LOCAL-00103" summary="new">
+      <option name="closed" value="true" />
+      <created>1776426233274</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1776426233274</updated>
+    </task>
+    <task id="LOCAL-00104" summary="new">
+      <option name="closed" value="true" />
+      <created>1776449541005</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1776449541005</updated>
+    </task>
+    <task id="LOCAL-00105" summary="new">
+      <option name="closed" value="true" />
+      <created>1776503761441</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1776503761441</updated>
+    </task>
+    <task id="LOCAL-00106" summary="new">
+      <option name="closed" value="true" />
+      <created>1776789179706</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1776789179707</updated>
+    </task>
+    <task id="LOCAL-00107" summary="new">
+      <option name="closed" value="true" />
+      <created>1776792057547</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1776792057547</updated>
+    </task>
+    <task id="LOCAL-00108" summary="new">
+      <option name="closed" value="true" />
+      <created>1776864087308</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1776864087309</updated>
+    </task>
+    <task id="LOCAL-00109" summary="new">
+      <option name="closed" value="true" />
+      <created>1776937671422</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1776937671423</updated>
+    </task>
+    <task id="LOCAL-00110" summary="new">
+      <option name="closed" value="true" />
+      <created>1777115689828</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1777115689829</updated>
+    </task>
+    <task id="LOCAL-00111" summary="new">
+      <option name="closed" value="true" />
+      <created>1777122508807</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1777122508807</updated>
+    </task>
+    <task id="LOCAL-00112" summary="new">
+      <option name="closed" value="true" />
+      <created>1777826258935</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1777826258935</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -750,8 +899,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PowerOfTwoReturn" />
-    <MESSAGE value="reverseArray" />
     <MESSAGE value="printIndexElement" />
     <MESSAGE value="countAndSay" />
     <MESSAGE value="SumTriangle" />
@@ -775,7 +922,9 @@
     <MESSAGE value="inserAtHeead" />
     <MESSAGE value="updated" />
     <MESSAGE value="Doubly linkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Doubly linkedList" />
+    <MESSAGE value="&#10;stack impkimentation" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -783,6 +932,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.EmptyStackException" package="java.util" />
+          <option name="timeStamp" value="26" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
@@ -878,6 +1031,16 @@
           <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
           <line>7</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trees/productNonZeros.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trees/levelsOfTrees.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
