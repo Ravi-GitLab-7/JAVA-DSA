@@ -47,7 +47,8 @@ public class traversals {
             System.out.println();
         }
     }
-    private static void levelOrder(Node root) {
+    private static void
+    evelOrder(Node root) {
         int prevLevel = 0;
         Queue<Pair> q = new LinkedList<>();
         if (root != null)
