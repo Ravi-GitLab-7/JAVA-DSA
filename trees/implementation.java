@@ -1,9 +1,9 @@
 package trees;
-class Node{
-    int val;
-    Node left;
-    Node right;
-    Node(int val ){
+public class Node{
+    public int val;
+    public Node left;
+    public Node right;
+    public Node(int val){
         this.val= val;
     }
 }
