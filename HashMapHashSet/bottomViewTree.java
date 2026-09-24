@@ -41,9 +41,7 @@ public class bottomViewTree {
             minLevel = Math.min(minLevel, lvl);
             maxLevel = Math.max(maxLevel, lvl);
 
-            if (!map.containsKey(lvl)) {
-                map.put(lvl, n.data);
-            }
+            map.put(lvl, n.data);
 
             if (n.left != null)
                 q.add(new Pair(n.left, lvl - 1));
