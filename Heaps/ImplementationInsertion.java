@@ -2,8 +2,8 @@ package Heaps;
 
 class MinHeap {
 
-    int[] arr;
-    int size;
+   private int[] arr;
+   private int size;
 
     // Constructor
     MinHeap(int capacity) {
