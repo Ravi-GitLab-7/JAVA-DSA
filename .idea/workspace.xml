@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/minAndMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/MinNodes.java" afterDir="false" />
+    <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/implementation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="689" />
+    <option name="cachedIndexableFilesCount" value="705" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,61 +58,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000001222031" />
-      <entry key="MS500" value="1.0104091784397455" />
-      <entry key="S2" value="1.3242552284754665" />
-      <entry key="S5" value="1.8178518175608525" />
-      <entry key="S10" value="2.5310260584466877" />
-      <entry key="S30" value="4.622347462755656" />
-      <entry key="S60" value="6.290595029785433" />
-      <entry key="M2" value="7.736980441394518" />
-      <entry key="M5" value="8.964091588436256" />
-      <entry key="M10" value="9.46419794632164" />
-      <entry key="M15" value="9.747003887967592" />
-      <entry key="M30" value="11.575434359009899" />
-      <entry key="H1" value="16.803321882801765" />
-      <entry key="H2" value="23.599082735559584" />
-      <entry key="H4" value="29.171280140385264" />
-      <entry key="D1" value="35.503509201445944" />
-      <entry key="W1" value="36.78098340627692" />
-    </decayedCancelled>
-    <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="4.492433149294349E-306" />
-      <entry key="S5" value="7.260936677232904E-123" />
-      <entry key="S10" value="8.521113000795672E-62" />
-      <entry key="S30" value="4.4004670648808774E-21" />
-      <entry key="S60" value="6.633601634768913E-11" />
-      <entry key="M2" value="8.144692526290935E-6" />
-      <entry key="M5" value="0.009212325971972168" />
-      <entry key="M10" value="0.09754215427827911" />
-      <entry key="M15" value="0.23407532170636974" />
-      <entry key="M30" value="0.8405999736081419" />
-      <entry key="H1" value="2.191822661406735" />
-      <entry key="H2" value="3.8376021197599575" />
-      <entry key="H4" value="5.160168083995444" />
-      <entry key="D1" value="6.649441878786638" />
-      <entry key="W1" value="6.948721781916031" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="4.127731127897195E-137" />
+      <entry key="S10" value="6.424742117701842E-69" />
+      <entry key="S30" value="1.8590250139026213E-23" />
+      <entry key="S60" value="4.311641234962183E-12" />
+      <entry key="M2" value="2.076449189111591E-6" />
+      <entry key="M5" value="0.005332471273138165" />
+      <entry key="M10" value="0.07304783455323524" />
+      <entry key="M15" value="0.17866284511489314" />
+      <entry key="M30" value="1.176469004565549" />
+      <entry key="H1" value="11.98028654396932" />
+      <entry key="H2" value="46.42579344890861" />
+      <entry key="H4" value="94.1336804473048" />
+      <entry key="D1" value="172.42774701224243" />
+      <entry key="W1" value="191.59473704246253" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.000000000000683" />
+      <entry key="M10" value="1.0000050082051852" />
+      <entry key="M15" value="1.0010597382143858" />
+      <entry key="M30" value="1.2455975789004892" />
+      <entry key="H1" value="4.959692878747852" />
+      <entry key="H2" value="17.355549652517432" />
+      <entry key="H4" value="34.64286195874293" />
+      <entry key="D1" value="62.89508472737806" />
+      <entry key="W1" value="69.77848149161386" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.108969643972906E-5" />
-      <entry key="MS500" value="0.14836561327420844" />
-      <entry key="S2" value="0.758834772123808" />
-      <entry key="S5" value="1.4258854395726708" />
-      <entry key="S10" value="2.2338627391782166" />
-      <entry key="S30" value="4.434247442295889" />
-      <entry key="S60" value="6.167081148839804" />
-      <entry key="M2" value="7.664473270827293" />
-      <entry key="M5" value="8.941059907539564" />
-      <entry key="M10" value="9.544850513051259" />
-      <entry key="M15" value="9.969392620110305" />
-      <entry key="M30" value="12.408788814639786" />
-      <entry key="H1" value="18.989587382815266" />
-      <entry key="H2" value="27.432661308040156" />
-      <entry key="H4" value="34.328927569511954" />
-      <entry key="D1" value="42.15243471671563" />
-      <entry key="W1" value="43.729628649429934" />
+      <entry key="MS100" value="4.406522203132615E-5" />
+      <entry key="MS500" value="0.13453001559797462" />
+      <entry key="S2" value="0.6056263997233202" />
+      <entry key="S5" value="0.8182422852045377" />
+      <entry key="S10" value="0.9045674575201883" />
+      <entry key="S30" value="0.9671199004634272" />
+      <entry key="S60" value="0.9834225442156451" />
+      <entry key="M2" value="0.9916786679182877" />
+      <entry key="M5" value="1.0019519722716912" />
+      <entry key="M10" value="1.071088912717697" />
+      <entry key="M15" value="1.178136497851929" />
+      <entry key="M30" value="2.4205422163477883" />
+      <entry key="H1" value="16.935889312625815" />
+      <entry key="H2" value="63.77372890472945" />
+      <entry key="H4" value="128.76873935811747" />
+      <entry key="D1" value="235.32041168776487" />
+      <entry key="W1" value="261.37283320630286" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -134,179 +131,199 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AbsoluteValueFloat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AdvancedConditionals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmaticoperation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AuthenticationSystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_pallindrone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Duplicate_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindNthNodeFromEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MAximumElementRightPlaceSelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Marks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MazePath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoSotedArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NthStair.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NthStair2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerOfTwoReturn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintRecursively.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reversewithout0s.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPrinting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TowerOfHanoi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arraangeelement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrayImplementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrayTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.atAnyIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.authentication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bubbleSort2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bubbleSort2Optimize.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bubleSortDecereasingOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.checkIfArrayShortOrNot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.circularDequeArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.circularQueueArray (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.circularQueueArray (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.circularQueueArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.classPassingToMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.complexNumberClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.compression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.constructor2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.copyStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.countAndSay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cyclesort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dequeImplemetationUsingLL.executor&quot;: &quot;Run&quot;,
-    &quot;Application.doublyCircularLL.executor&quot;: &quot;Run&quot;,
-    &quot;Application.doublyLinkedListImplementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.duplicatelement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evaluationPostfix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evalutationPrefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evenPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fibonacciNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.finalAndStatic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findFirstAndLastElememnt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findLowerBond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findUpperBond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findWayStairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.firstOccurance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fractionClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functionCalls.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generateparentheses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.howManyVowelsInString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.implementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.increaseSequences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.increaseSequencesInString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.infixExpression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.infixToPostfix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.infixToPrefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.infxTopostFix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.insertion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.intialization.executor&quot;: &quot;Run&quot;,
-    &quot;Application.inversionCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.isertAtIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.knowNoOfSwaos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.levelsOfTrees.executor&quot;: &quot;Run&quot;,
-    &quot;Application.linkedListImplementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.llImplementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lowerBond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.majorityElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maxNodeTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.merge_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mergesortdecendingorder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.minAndMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.missingnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.moveZeroes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nodeCreation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.operation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ownArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.postfixToPrefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.postfixToinfix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerLinear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerLiner2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.preInPost.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prefixToInfix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.previousGreaterElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.print1ToN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printIndexElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printNto1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printStringdPermutationWithoutConsu1s.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printSubsetInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printSubsets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.privateKeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.productNonZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.productOfTrees.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quicksort2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quicksortalgo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quicksortorktjsmaller.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ravi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeEvenPlace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.returnLeftMiddle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseKelement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseQueue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.shallowCopyOfNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sizeOfTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.smallerDivisorGivenThreshold.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sortlinear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sqrTihoutInbuildFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stackSpanProblem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumBetweenAandB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumFrom1toN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumReurn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.transform.executor&quot;: &quot;Run&quot;,
-    &quot;Application.traversals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.uerdefined.executor&quot;: &quot;Run&quot;,
-    &quot;Application.upperBond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.userdefined.executor&quot;: &quot;Run&quot;,
-    &quot;Application.withoutUsingExtraPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.zigZag.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.DA.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;M:/JavaProgrammingCW&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMThirdPartyAiProvidersConfigurable&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbsoluteValueFloat.executor": "Run",
+    "Application.AdvancedConditionals.executor": "Run",
+    "Application.Arithmaticoperation.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.AuthenticationSystem.executor": "Run",
+    "Application.CheckSortedArray.executor": "Run",
+    "Application.Check_pallindrone.executor": "Run",
+    "Application.Constructor.executor": "Run",
+    "Application.Duplicate_Sum.executor": "Run",
+    "Application.FindNthNodeFromEnd.executor": "Run",
+    "Application.ImplementationInsertion (1).executor": "Run",
+    "Application.ImplementationInsertion.executor": "Run",
+    "Application.InorderSuccessor.executor": "Run",
+    "Application.MAximumElementRightPlaceSelectionSort.executor": "Run",
+    "Application.Marks.executor": "Run",
+    "Application.MazePath.executor": "Run",
+    "Application.MergeTwoSotedArrays.executor": "Run",
+    "Application.NthStair.executor": "Run",
+    "Application.NthStair2.executor": "Run",
+    "Application.PowerOfTwoReturn.executor": "Run",
+    "Application.PrintRecursively.executor": "Run",
+    "Application.Reversewithout0s.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SpiralPrinting.executor": "Run",
+    "Application.SumTriangle.executor": "Run",
+    "Application.TowerOfHanoi.executor": "Run",
+    "Application.arraangeelement.executor": "Run",
+    "Application.arrayImplementation.executor": "Run",
+    "Application.arrayTraversal.executor": "Run",
+    "Application.atAnyIndex.executor": "Run",
+    "Application.authentication.executor": "Run",
+    "Application.basic.executor": "Run",
+    "Application.basicHeaps.executor": "Run",
+    "Application.bs.executor": "Run",
+    "Application.bubbleSort2.executor": "Run",
+    "Application.bubbleSort2Optimize.executor": "Run",
+    "Application.bubleSortDecereasingOrder.executor": "Run",
+    "Application.checkIfArrayShortOrNot.executor": "Run",
+    "Application.circularDequeArray.executor": "Run",
+    "Application.circularQueueArray (1).executor": "Run",
+    "Application.circularQueueArray (2).executor": "Run",
+    "Application.circularQueueArray.executor": "Run",
+    "Application.classPassingToMethod.executor": "Run",
+    "Application.complexNumberClass.executor": "Run",
+    "Application.compression.executor": "Run",
+    "Application.constructor2.executor": "Run",
+    "Application.copyStack.executor": "Run",
+    "Application.countAndSay.executor": "Run",
+    "Application.cyclesort.executor": "Run",
+    "Application.dc.executor": "Run",
+    "Application.dequeImplemetationUsingLL.executor": "Run",
+    "Application.doublyCircularLL.executor": "Run",
+    "Application.doublyLinkedListImplementation.executor": "Run",
+    "Application.duplicatelement.executor": "Run",
+    "Application.evaluationPostfix.executor": "Run",
+    "Application.evalutationPrefix.executor": "Run",
+    "Application.evenPrint.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.fibonacciNo.executor": "Run",
+    "Application.finalAndStatic.executor": "Run",
+    "Application.findFirstAndLastElememnt.executor": "Run",
+    "Application.findLowerBond.executor": "Run",
+    "Application.findUpperBond.executor": "Run",
+    "Application.findWayStairs.executor": "Run",
+    "Application.firstOccurance.executor": "Run",
+    "Application.fractionClass.executor": "Run",
+    "Application.functionCalls.executor": "Run",
+    "Application.generateparentheses.executor": "Run",
+    "Application.heapSort.executor": "Run",
+    "Application.howManyVowelsInString.executor": "Run",
+    "Application.implement.executor": "Run",
+    "Application.implementation (1).executor": "Run",
+    "Application.implementation (2).executor": "Run",
+    "Application.implementation.executor": "Run",
+    "Application.increaseSequences.executor": "Run",
+    "Application.increaseSequencesInString.executor": "Run",
+    "Application.infixExpression.executor": "Run",
+    "Application.infixToPostfix.executor": "Run",
+    "Application.infixToPrefix.executor": "Run",
+    "Application.infxTopostFix.executor": "Run",
+    "Application.inorderpredecessor.executor": "Run",
+    "Application.inputString.executor": "Run",
+    "Application.insertion.executor": "Run",
+    "Application.intialization.executor": "Run",
+    "Application.inversionCount.executor": "Run",
+    "Application.isertAtIndex.executor": "Run",
+    "Application.iterate.executor": "Run",
+    "Application.iterateMap.executor": "Run",
+    "Application.kSortedArray.executor": "Run",
+    "Application.knowNoOfSwaos.executor": "Run",
+    "Application.kthSmallestElement.executor": "Run",
+    "Application.levelsOfTrees.executor": "Run",
+    "Application.linkedListImplementation.executor": "Run",
+    "Application.llImplementation.executor": "Run",
+    "Application.lowerBond.executor": "Run",
+    "Application.majorityElement.executor": "Run",
+    "Application.mapInfo.executor": "Run",
+    "Application.maxNodeTree.executor": "Run",
+    "Application.mergeTwoSortedArray.executor": "Run",
+    "Application.merge_sort.executor": "Run",
+    "Application.mergesortdecendingorder.executor": "Run",
+    "Application.minAndMax.executor": "Run",
+    "Application.missingnumber.executor": "Run",
+    "Application.moveZeroes.executor": "Run",
+    "Application.nodeCreation.executor": "Run",
+    "Application.operation.executor": "Run",
+    "Application.ownArrayList.executor": "Run",
+    "Application.permutations.executor": "Run",
+    "Application.polymorphism.executor": "Run",
+    "Application.postfixToPrefix.executor": "Run",
+    "Application.postfixToinfix.executor": "Run",
+    "Application.powerLinear.executor": "Run",
+    "Application.powerLiner2.executor": "Run",
+    "Application.preInPost.executor": "Run",
+    "Application.prefixToInfix.executor": "Run",
+    "Application.previousGreaterElement.executor": "Run",
+    "Application.print1ToN.executor": "Run",
+    "Application.printIndexElement.executor": "Run",
+    "Application.printNto1.executor": "Run",
+    "Application.printStringdPermutationWithoutConsu1s.executor": "Run",
+    "Application.printSubsetInArray.executor": "Run",
+    "Application.printSubsets.executor": "Run",
+    "Application.privateKeyword.executor": "Run",
+    "Application.productNonZeros.executor": "Run",
+    "Application.productOfTrees.executor": "Run",
+    "Application.quicksort2.executor": "Run",
+    "Application.quicksortalgo.executor": "Run",
+    "Application.quicksortorktjsmaller.executor": "Run",
+    "Application.ravi.executor": "Run",
+    "Application.removeEvenPlace.executor": "Run",
+    "Application.returnLeftMiddle.executor": "Run",
+    "Application.reverse.executor": "Run",
+    "Application.reverseArray.executor": "Run",
+    "Application.reverseKelement.executor": "Run",
+    "Application.reverseQueue.executor": "Run",
+    "Application.shallowCopyOfNode.executor": "Run",
+    "Application.sizeOfTree.executor": "Run",
+    "Application.smallerDivisorGivenThreshold.executor": "Run",
+    "Application.sortlinear.executor": "Run",
+    "Application.sqrTihoutInbuildFunction.executor": "Run",
+    "Application.stackSpanProblem.executor": "Run",
+    "Application.stringTraversal.executor": "Run",
+    "Application.sumBetweenAandB.executor": "Run",
+    "Application.sumFrom1toN.executor": "Run",
+    "Application.sumReurn.executor": "Run",
+    "Application.topViewTree.executor": "Run",
+    "Application.transform.executor": "Run",
+    "Application.traversals.executor": "Run",
+    "Application.treeSet.executor": "Run",
+    "Application.uerdefined.executor": "Run",
+    "Application.upperBond.executor": "Run",
+    "Application.userdefined.executor": "Run",
+    "Application.withoutUsingExtraPrint.executor": "Run",
+    "Application.zigZag.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "KEY_CHAT_IN_TOOLWINDOW": "false",
+    "Python.DA.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "M:/JavaProgrammingCW",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "editor.preferences.completion.popup",
+    "settings.editor.splitter.proportion": "0.28",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.minAndMax">
-    <configuration name="basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.basic" />
+}]]></component>
+  <component name="RunManager" selected="Application.heapSort">
+    <configuration name="ImplementationInsertion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.ImplementationInsertion" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="levelsOfTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees.levelsOfTrees" />
+    <configuration name="ImplementationInsertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.ImplementationInsertion" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trees.*" />
+          <option name="PATTERN" value="Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,12 +344,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxNodeTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees.maxNodeTree" />
+    <configuration name="heapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.heapSort" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trees.*" />
+          <option name="PATTERN" value="Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,12 +357,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minAndMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchTree.minAndMax" />
+    <configuration name="iterateMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapHashSet.iterateMap" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearchTree.*" />
+          <option name="PATTERN" value="HashMapHashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,12 +370,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="traversals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees.traversals" />
+    <configuration name="kSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.kSortedArray" />
       <module name="JavaProgrammingCW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trees.*" />
+          <option name="PATTERN" value="Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,18 +385,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.minAndMax" />
-        <item itemvalue="Application.basic" />
-        <item itemvalue="Application.maxNodeTree" />
-        <item itemvalue="Application.traversals" />
-        <item itemvalue="Application.levelsOfTrees" />
+        <item itemvalue="Application.heapSort" />
+        <item itemvalue="Application.ImplementationInsertion (1)" />
+        <item itemvalue="Application.ImplementationInsertion" />
+        <item itemvalue="Application.kSortedArray" />
+        <item itemvalue="Application.iterateMap" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
       </set>
     </attachedChunks>
   </component>
@@ -509,14 +527,7 @@
       <workItem from="1789117851608" duration="2358000" />
       <workItem from="1789120258948" duration="217000" />
       <workItem from="1789120508967" duration="694000" />
-    </task>
-    <task id="LOCAL-00068" summary="update">
-      <option name="closed" value="true" />
-      <created>1761940513727</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1761940513727</updated>
+      <workItem from="1789142602394" duration="1106000" />
     </task>
     <task id="LOCAL-00069" summary="duplicatelement">
       <option name="closed" value="true" />
@@ -902,7 +913,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788838902996</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="new">
+      <option name="closed" value="true" />
+      <created>1789142628636</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1789142628637</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -941,11 +960,11 @@
     <MESSAGE value="dispalyRecusively" />
     <MESSAGE value="insertAtEnd" />
     <MESSAGE value="inserAtHeead" />
-    <MESSAGE value="updated" />
     <MESSAGE value="Doubly linkedList" />
     <MESSAGE value="&#10;stack impkimentation" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1061,11 +1080,6 @@
           <url>file://$PROJECT_DIR$/src/trees/productNonZeros.java</url>
           <line>5</line>
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/trees/levelsOfTrees.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
