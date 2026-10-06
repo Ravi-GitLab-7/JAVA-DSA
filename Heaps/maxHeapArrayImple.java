@@ -135,3 +135,143 @@ public class maxHeapArrayImple {
         System.out.println("Heap size: " + pq.size());
     }
 }
+
+// samallest element coverinbg element from k lists
+
+//import java.util.*;
+//
+//class Solution {
+//
+//    public int[] smallestRange(List<List<Integer>> nums) {
+//
+//        // Number of lists
+//        int k = nums.size();
+//
+//        // bestL = left side of our best answer
+//        int bestL = 0;
+//
+//        // bestR = right side of our best answer
+//        // Initially keep it as the largest possible integer
+//        int bestR = Integer.MAX_VALUE;
+//
+//
+//        // -----------------------------------------
+//        // Choose every element as the LEFT boundary
+//        // -----------------------------------------
+//
+//        // i = which list we are currently using
+//        for (int i = 0; i < k; i++) {
+//
+//            // j = which element of that list
+//            // we are using as the left boundary
+//            for (int j = 0; j < nums.get(i).size(); j++) {
+//
+//                // Take the current element as LEFT
+//                //
+//                // Example:
+//                // nums = [[4,10,15], [0,9,12], [5,18,22]]
+//                //
+//                // left can be 4, 10, 15, 0, 9, 12, ...
+//                int left = nums.get(i).get(j);
+//
+//
+//                // We need to find the RIGHT boundary.
+//                //
+//                // We will find one suitable number
+//                // from every list and take the maximum.
+//                int right = Integer.MIN_VALUE;
+//
+//
+//                // Assume that a valid range is possible
+//                boolean possible = true;
+//
+//
+//                // -----------------------------------------
+//                // Check EVERY list
+//                // -----------------------------------------
+//
+//                for (int x = 0; x < k; x++) {
+//
+//                    // We haven't found a suitable element
+//                    // in this list yet
+//                    boolean found = false;
+//
+//
+//                    // Search inside the current list
+//                    for (int y = 0; y < nums.get(x).size(); y++) {
+//
+//                        // Take the current element
+//                        int value = nums.get(x).get(y);
+//
+//
+//                        // We need an element that is
+//                        // greater than or equal to LEFT
+//                        //
+//                        // Because the range is:
+//                        //
+//                        // [left ........ right]
+//                        //
+//                        // Therefore value must be >= left
+//                        if (value >= left) {
+//
+//                            // This value can represent this list
+//                            //
+//                            // We need the largest value among
+//                            // all lists because that will become RIGHT
+//                            right = Math.max(right, value);
+//
+//
+//                            // We found a suitable value
+//                            found = true;
+//
+//
+//                            // Since each list is sorted,
+//                            // the first value >= left is the
+//                            // smallest suitable value.
+//                            //
+//                            // So stop searching this list.
+//                            break;
+//                        }
+//                    }
+//
+//
+//                    // If we could not find any value >= left
+//                    // in this list, then this LEFT cannot make
+//                    // a valid range containing all lists.
+//                    if (!found) {
+//
+//                        // Mark this range as impossible
+//                        possible = false;
+//
+//                        // No need to check remaining lists
+//                        break;
+//                    }
+//                }
+//
+//
+//                // -----------------------------------------
+//                // Check whether this is the BEST range
+//                // -----------------------------------------
+//
+//                // possible == true means:
+//                // Every list has at least one element
+//                // inside our range.
+//                //
+//                // right - left = length of current range
+//                //
+//                // bestR - bestL = length of previous best range
+//                if (possible && right - left < bestR - bestL) {
+//
+//                    // Current range is smaller,
+//                    // so save it as our best answer.
+//                    bestL = left;
+//                    bestR = right;
+//                }
+//            }
+//        }
+//
+//
+//        // Return the smallest range
+//        return new int[]{bestL, bestR};
+//    }
+//}
