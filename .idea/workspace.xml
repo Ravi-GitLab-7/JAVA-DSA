@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="133d8edc-5388-4b9b-a54c-fd3ede0a2509" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/Heaps/checkBinaryTreHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Heaps/maxHeapArrayImple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heaps/maxHeapArrayImple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -1068,7 +1066,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Linked_List/implementation.java</url>
           <line>112</line>
-          <properties class="Linked_List.implementation" method="main">
+          <properties class="Linked_List.implementation">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
