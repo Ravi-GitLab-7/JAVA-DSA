@@ -124,6 +124,7 @@ public class maxHeapArrayImple {
         pq.add(2);
         pq.add(8);
 
+
         System.out.println("Maximum element: " + pq.peek());
 
         System.out.println("Removed: " + pq.remove());
